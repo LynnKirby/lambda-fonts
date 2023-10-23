@@ -1,0 +1,9 @@
+// SPDX-FileCopyrightText: none
+//
+// SPDX-License-Identifier: 0BSD
+{
+  "files.associations": {
+    "*.plist": "xml",
+    "*.feax": "afdko",
+  }
+}
