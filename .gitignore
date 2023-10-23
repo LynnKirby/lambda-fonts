@@ -4,3 +4,6 @@
 
 # Build artifacts
 /_build/
+
+# Python
+/.venv/
