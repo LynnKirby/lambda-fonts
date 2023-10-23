@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>658</integer>
   <key>copyright</key>
-  <string>2023 The Lambda Fonts Project Authors</string>
+  <string>Copyright 2023 The Lambda Fonts Project Authors (https://github.com/LynnKirby/lambda-fonts)</string>
   <key>descender</key>
   <integer>-246</integer>
   <key>familyName</key>
@@ -100,7 +100,7 @@
   <key>openTypeNameDesigner</key>
   <string>Philipp H. Poll, Khaled Hosny</string>
   <key>openTypeNameLicense</key>
-  <string>This Font Software is licensed under the SIL Open Font License, Version 1.1</string>
+  <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
   <key>openTypeNameLicenseURL</key>
   <string>https://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
