@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcircumflex" format="2">
+  <advance width="538"/>
+  <unicode hex="0125"/>
+  <outline>
+    <contour>
+      <point x="339.3" y="663.9" type="curve"/>
+      <point x="365.4" y="614.6"/>
+      <point x="405.0" y="558.9"/>
+      <point x="437.4" y="516.9" type="curve"/>
+      <point x="432.9" y="509.6"/>
+      <point x="423.1" y="501.1"/>
+      <point x="414.7" y="499.1" type="curve"/>
+      <point x="380.5" y="524.3"/>
+      <point x="351.0" y="551.7"/>
+      <point x="324.0" y="584.2" type="curve"/>
+      <point x="295.2" y="550.6"/>
+      <point x="267.5" y="522.2"/>
+      <point x="232.4" y="499.1" type="curve"/>
+      <point x="224.3" y="501.2"/>
+      <point x="216.0" y="507.5"/>
+      <point x="210.6" y="516.9" type="curve"/>
+      <point x="243.0" y="558.9"/>
+      <point x="284.4" y="615.6"/>
+      <point x="310.5" y="663.9" type="curve"/>
+      <point x="320.1" y="666.3"/>
+      <point x="329.7" y="667.1"/>
+    </contour>
+    <component base="h"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

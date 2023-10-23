@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FDE" format="2">
+  <advance width="331"/>
+  <unicode hex="1FDE"/>
+  <outline>
+    <contour>
+      <point x="262.0" y="654.0" type="curve" smooth="yes"/>
+      <point x="290.0" y="654.0"/>
+      <point x="299.0" y="632.0"/>
+      <point x="299.0" y="621.0" type="curve" smooth="yes"/>
+      <point x="299.0" y="617.0"/>
+      <point x="298.0" y="613.0"/>
+      <point x="296.0" y="609.0" type="curve" smooth="yes"/>
+      <point x="220.0" y="470.0" type="line" smooth="yes"/>
+      <point x="218.0" y="466.0"/>
+      <point x="214.0" y="465.0"/>
+      <point x="212.0" y="465.0" type="curve" smooth="yes"/>
+      <point x="199.0" y="465.0"/>
+      <point x="197.0" y="475.0"/>
+      <point x="197.0" y="478.0" type="curve" smooth="yes"/>
+      <point x="197.0" y="478.0"/>
+      <point x="197.0" y="478.0"/>
+      <point x="197.0" y="479.0" type="curve" smooth="yes"/>
+      <point x="230.0" y="634.0" type="line" smooth="yes"/>
+      <point x="234.0" y="650.0"/>
+      <point x="252.0" y="654.0"/>
+    </contour>
+    <component base="uni02BD" xOffset="1.0" yOffset="-9.0"/>
+  </outline>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.fitted" format="2">
+  <advance width="373"/>
+  <outline>
+    <component base="one" xOffset="-33.8879"/>
+  </outline>
+</glyph>

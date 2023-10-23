@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni22EE" format="2">
+  <advance width="204"/>
+  <unicode hex="22EE"/>
+  <outline>
+    <component base="period" xOffset="-6.0" yOffset="576.0"/>
+    <component base="period" xOffset="-6.0" yOffset="311.0"/>
+    <component base="period" xOffset="-6.0" yOffset="47.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

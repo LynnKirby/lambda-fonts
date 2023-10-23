@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="322"/>
+  <unicode hex="0069"/>
+  <anchor x="136.0" y="-110.0" name="below"/>
+  <anchor x="137.0" y="12.0" name="cedilla"/>
+  <anchor x="209.0" y="10.0" name="ogonek"/>
+  <anchor x="142.0" y="215.0" name="middle"/>
+  <anchor x="137.0" y="795.0" name="above"/>
+  <outline>
+    <component base="uni0307" xOffset="331.0"/>
+    <component base="dotlessi"/>
+  </outline>
+</glyph>

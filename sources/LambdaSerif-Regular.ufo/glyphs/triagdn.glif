@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="triagdn" format="2">
+  <advance width="541"/>
+  <unicode hex="25BC"/>
+  <outline>
+    <contour>
+      <point x="44.0" y="429.0" type="line"/>
+      <point x="498.0" y="429.0" type="line"/>
+      <point x="272.0" y="35.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gradient" format="2">
+  <advance width="661"/>
+  <unicode hex="2207"/>
+  <outline>
+    <contour>
+      <point x="207.0" y="150.0" type="curve"/>
+      <point x="475.0" y="611.0" type="line"/>
+      <point x="108.0" y="611.0" type="line"/>
+      <point x="145.0" y="442.0"/>
+      <point x="170.0" y="320.0"/>
+    </contour>
+    <contour>
+      <point x="157.0" y="-2.0" type="line"/>
+      <point x="26.0" y="628.0" type="line" smooth="yes"/>
+      <point x="24.0" y="636.0"/>
+      <point x="23.0" y="641.0"/>
+      <point x="23.0" y="642.0" type="curve" smooth="yes"/>
+      <point x="23.0" y="650.0"/>
+      <point x="44.0" y="652.0"/>
+      <point x="67.0" y="652.0" type="curve" smooth="yes"/>
+      <point x="593.0" y="652.0" type="line" smooth="yes"/>
+      <point x="619.0" y="652.0"/>
+      <point x="635.0" y="650.0"/>
+      <point x="634.0" y="641.0" type="curve"/>
+      <point x="625.0" y="628.0" type="line"/>
+      <point x="504.0" y="419.0"/>
+      <point x="382.0" y="207.0"/>
+      <point x="261.0" y="-2.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

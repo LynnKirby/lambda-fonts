@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F29" format="2">
+  <advance width="820"/>
+  <unicode hex="1F29"/>
+  <outline>
+    <component base="H" xOffset="90.0"/>
+    <component base="uni02BD" xOffset="-71.0" yOffset="66.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

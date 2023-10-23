@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflex" format="2">
+  <advance width="447"/>
+  <unicode hex="00EA"/>
+  <anchor x="255.0" y="834.0" name="above"/>
+  <outline>
+    <component base="e"/>
+    <component base="uni0302" xOffset="372.0" yOffset="-51.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

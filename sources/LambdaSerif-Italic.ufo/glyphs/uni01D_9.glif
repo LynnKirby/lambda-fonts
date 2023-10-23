@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01D9" format="2">
+  <advance width="634"/>
+  <unicode hex="01D9"/>
+  <outline>
+    <contour>
+      <point x="447.3" y="748.1" type="line"/>
+      <point x="431.1" y="780.7"/>
+      <point x="409.6" y="807.1"/>
+      <point x="386.5" y="831.7" type="curve"/>
+      <point x="401.9" y="849.3" type="line"/>
+      <point x="429.6" y="834.3"/>
+      <point x="451.9" y="817.6"/>
+      <point x="473.5" y="795.6" type="curve"/>
+      <point x="505.8" y="818.5"/>
+      <point x="534.4" y="835.2"/>
+      <point x="566.7" y="849.3" type="curve"/>
+      <point x="574.4" y="831.7" type="line"/>
+      <point x="540.5" y="806.2"/>
+      <point x="509.7" y="778.0"/>
+      <point x="480.4" y="748.1" type="curve"/>
+    </contour>
+    <component base="Udieresis.alt"/>
+  </outline>
+</glyph>

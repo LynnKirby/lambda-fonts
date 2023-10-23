@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01D9" format="2">
+  <advance width="667"/>
+  <unicode hex="01D9"/>
+  <outline>
+    <contour>
+      <point x="335.2" y="748.1" type="line"/>
+      <point x="312.1" y="780.7"/>
+      <point x="285.1" y="807.1"/>
+      <point x="257.4" y="831.7" type="curve"/>
+      <point x="269.7" y="849.3" type="line"/>
+      <point x="299.7" y="834.3"/>
+      <point x="325.9" y="817.6"/>
+      <point x="351.3" y="795.6" type="curve"/>
+      <point x="379.8" y="818.5"/>
+      <point x="404.4" y="835.2"/>
+      <point x="433.7" y="849.3" type="curve"/>
+      <point x="445.3" y="831.7" type="line"/>
+      <point x="416.0" y="806.2"/>
+      <point x="391.4" y="778.0"/>
+      <point x="368.3" y="748.1" type="curve"/>
+    </contour>
+    <component base="Udieresis.alt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c_k" format="2">
+  <advance width="836"/>
+  <anchor x="386" y="0" name="caret_1"/>
+  <outline>
+    <component base="c"/>
+    <component base="k" xOffset="350.0"/>
+  </outline>
+</glyph>

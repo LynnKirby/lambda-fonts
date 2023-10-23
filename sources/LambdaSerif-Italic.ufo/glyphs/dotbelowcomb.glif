@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <unicode hex="0323"/>
+  <anchor x="-239.0" y="-113.0" name="_below"/>
+  <outline>
+    <contour>
+      <point x="-293.0" y="-117.0" type="curve" smooth="yes"/>
+      <point x="-286.700195312" y="-86.0"/>
+      <point x="-259.0" y="-63.0"/>
+      <point x="-228.0" y="-63.0" type="curve" smooth="yes"/>
+      <point x="-197.0" y="-63.0"/>
+      <point x="-178.700195312" y="-86.0"/>
+      <point x="-185.0" y="-117.0" type="curve" smooth="yes"/>
+      <point x="-191.299804688" y="-148.0"/>
+      <point x="-219.0" y="-171.0"/>
+      <point x="-250.0" y="-171.0" type="curve" smooth="yes"/>
+      <point x="-281.0" y="-171.0"/>
+      <point x="-299.299804688" y="-148.0"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni037C" format="2">
+  <advance width="482"/>
+  <unicode hex="037C"/>
+  <outline>
+    <component base="anoteleia" xOffset="193.0" yOffset="-73.0"/>
+    <component base="uni03F2"/>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0268" format="2">
+  <advance width="294"/>
+  <unicode hex="0268"/>
+  <anchor x="167.0" y="-3.0" name="cedilla"/>
+  <anchor x="410.0" y="16.0" name="ogonek"/>
+  <anchor x="155.0" y="795.0" name="above"/>
+  <anchor x="134.0" y="-114.0" name="below"/>
+  <outline>
+    <component base="uni0307" xOffset="334.0" yOffset="23.0"/>
+    <component base="uni0268.dotless"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.8,0.611765,1,1</string>
+    </dict>
+  </lib>
+</glyph>

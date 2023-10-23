@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oacute" format="2">
+  <advance width="702"/>
+  <unicode hex="00D3"/>
+  <anchor x="350.0" y="-110.0" name="below"/>
+  <anchor x="350.0" y="0.0" name="cedilla"/>
+  <anchor x="344.0" y="894.0" name="above"/>
+  <anchor x="620.0" y="606.0" name="komb_OR"/>
+  <outline>
+    <component base="O"/>
+    <component base="acute.cap" xOffset="544.0" yOffset="127.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

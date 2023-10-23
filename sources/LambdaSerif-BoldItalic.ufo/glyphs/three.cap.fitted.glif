@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.cap.fitted" format="2">
+  <advance height="1077" width="536"/>
+  <outline>
+    <component base="three.cap" xOffset="-9.0"/>
+  </outline>
+</glyph>

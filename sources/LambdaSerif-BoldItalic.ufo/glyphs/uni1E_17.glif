@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E17" format="2">
+  <advance width="409"/>
+  <unicode hex="1E17"/>
+  <outline>
+    <contour>
+      <point x="373.4" y="778.6" type="line"/>
+      <point x="375.9" y="779.5"/>
+      <point x="382.4" y="780.4"/>
+      <point x="386.4" y="780.4" type="curve" smooth="yes"/>
+      <point x="410.4" y="780.4"/>
+      <point x="424.0" y="767.8"/>
+      <point x="429.3" y="758.8" type="curve"/>
+      <point x="434.7" y="738.1" type="line"/>
+      <point x="326.6" y="640.9" type="line" smooth="yes"/>
+      <point x="314.1" y="630.1"/>
+      <point x="302.4" y="626.5"/>
+      <point x="294.4" y="626.5" type="curve" smooth="yes"/>
+      <point x="288.0" y="626.5"/>
+      <point x="282.5" y="633.7"/>
+      <point x="283.2" y="639.1" type="curve" smooth="yes"/>
+      <point x="283.9" y="644.5"/>
+      <point x="286.5" y="652.6"/>
+      <point x="292.3" y="660.7" type="curve" smooth="yes"/>
+    </contour>
+    <component base="emacron"/>
+  </outline>
+</glyph>

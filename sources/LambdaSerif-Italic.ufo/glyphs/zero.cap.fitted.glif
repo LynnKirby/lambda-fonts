@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.cap.fitted" format="2">
+  <advance height="1077" width="505"/>
+  <outline>
+    <component base="zero.cap" xOffset="16.0"/>
+  </outline>
+</glyph>

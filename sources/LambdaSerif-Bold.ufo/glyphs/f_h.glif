@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_h" format="2">
+  <advance width="974"/>
+  <outline>
+    <contour>
+      <point x="441.0" y="544.0" type="curve" smooth="yes"/>
+      <point x="410.0" y="544.0"/>
+      <point x="389.0" y="567.0"/>
+      <point x="379.0" y="594.0" type="curve" smooth="yes"/>
+      <point x="366.400390625" y="628.0"/>
+      <point x="340.0" y="646.0"/>
+      <point x="323.0" y="646.0" type="curve" smooth="yes"/>
+      <point x="301.0" y="646.0"/>
+      <point x="235.0" y="617.0"/>
+      <point x="235.0" y="468.0" type="curve" smooth="yes"/>
+      <point x="235.0" y="434.0" type="line"/>
+      <point x="321.0" y="434.0" type="line" smooth="yes"/>
+      <point x="340.0" y="434.0"/>
+      <point x="341.0" y="430.0"/>
+      <point x="341.0" y="424.0" type="curve" smooth="yes"/>
+      <point x="341.0" y="401.0" type="line" smooth="yes"/>
+      <point x="341.0" y="389.0"/>
+      <point x="324.0" y="384.0"/>
+      <point x="306.0" y="384.0" type="curve" smooth="yes"/>
+      <point x="235.0" y="384.0" type="line"/>
+      <point x="235.0" y="128.0" type="line" smooth="yes"/>
+      <point x="235.0" y="44.0"/>
+      <point x="251.0" y="35.0"/>
+      <point x="312.0" y="32.0" type="curve"/>
+      <point x="318.0" y="26.0"/>
+      <point x="318.0" y="4.0"/>
+      <point x="312.0" y="-2.0" type="curve"/>
+      <point x="269.0" y="-1.0"/>
+      <point x="225.400390625" y="0.0"/>
+      <point x="170.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="114.599609375" y="0.0"/>
+      <point x="70.0" y="-1.0"/>
+      <point x="28.0" y="-2.0" type="curve"/>
+      <point x="22.0" y="4.0"/>
+      <point x="22.0" y="26.0"/>
+      <point x="28.0" y="32.0" type="curve"/>
+      <point x="89.0" y="35.0"/>
+      <point x="105.0" y="44.0"/>
+      <point x="105.0" y="126.0" type="curve" smooth="yes"/>
+      <point x="105.0" y="384.0" type="line"/>
+      <point x="54.0" y="384.0" type="line" smooth="yes"/>
+      <point x="31.0" y="384.0"/>
+      <point x="27.0" y="387.0"/>
+      <point x="27.0" y="394.0" type="curve" smooth="yes"/>
+      <point x="27.0" y="411.0" type="line" smooth="yes"/>
+      <point x="27.0" y="419.0"/>
+      <point x="64.0" y="434.0"/>
+      <point x="98.0" y="434.0" type="curve" smooth="yes"/>
+      <point x="105.0" y="434.0" type="line"/>
+      <point x="105.0" y="437.0" type="line" smooth="yes"/>
+      <point x="105.0" y="515.700195312"/>
+      <point x="141.799804688" y="588.200195312"/>
+      <point x="189.0" y="632.0" type="curve" smooth="yes"/>
+      <point x="233.099609375" y="673.0"/>
+      <point x="286.0" y="688.0"/>
+      <point x="332.0" y="688.0" type="curve" smooth="yes"/>
+      <point x="387.700195312" y="688.0"/>
+      <point x="428.900390625" y="673.299804688"/>
+      <point x="455.299804688" y="654.900390625" type="curve"/>
+      <point x="516.0" y="608.0"/>
+      <point x="492.333007812" y="544.0"/>
+    </contour>
+    <contour>
+      <point x="883.0" y="128.0" type="line" smooth="yes"/>
+      <point x="883.0" y="44.0"/>
+      <point x="899.0" y="35.0"/>
+      <point x="960.0" y="32.0" type="curve"/>
+      <point x="966.0" y="26.0"/>
+      <point x="966.0" y="4.0"/>
+      <point x="960.0" y="-2.0" type="curve"/>
+      <point x="917.0" y="-1.0"/>
+      <point x="873.400390625" y="0.0"/>
+      <point x="818.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="770.400390625" y="0.0"/>
+      <point x="738.0" y="-1.0"/>
+      <point x="696.0" y="-2.0" type="curve"/>
+      <point x="690.0" y="4.0"/>
+      <point x="690.0" y="26.0"/>
+      <point x="696.0" y="32.0" type="curve"/>
+      <point x="737.0" y="35.0"/>
+      <point x="753.0" y="44.0"/>
+      <point x="753.0" y="128.0" type="curve" smooth="yes"/>
+      <point x="753.0" y="295.0" type="line" smooth="yes"/>
+      <point x="753.0" y="352.0"/>
+      <point x="718.0" y="370.0"/>
+      <point x="678.0" y="370.0" type="curve" smooth="yes"/>
+      <point x="660.099609375" y="370.0"/>
+      <point x="626.5" y="358.099609375"/>
+      <point x="585.0" y="331.599609375" type="curve"/>
+      <point x="585.0" y="127.0" type="line" smooth="yes"/>
+      <point x="585.0" y="44.0"/>
+      <point x="600.0" y="35.0"/>
+      <point x="642.0" y="32.0" type="curve"/>
+      <point x="648.0" y="26.0"/>
+      <point x="648.0" y="4.0"/>
+      <point x="642.0" y="-2.0" type="curve"/>
+      <point x="599.0" y="-1.0"/>
+      <point x="567.599609375" y="0.0"/>
+      <point x="520.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="464.599609375" y="0.0"/>
+      <point x="420.0" y="-1.0"/>
+      <point x="378.0" y="-2.0" type="curve"/>
+      <point x="372.0" y="4.0"/>
+      <point x="372.0" y="26.0"/>
+      <point x="378.0" y="32.0" type="curve"/>
+      <point x="439.0" y="35.0"/>
+      <point x="455.0" y="44.0"/>
+      <point x="455.0" y="127.0" type="curve" smooth="yes"/>
+      <point x="455.0" y="565.0" type="line" smooth="yes"/>
+      <point x="455.0" y="633.599609375"/>
+      <point x="450.0" y="605.0"/>
+      <point x="387.0" y="610.0" type="curve"/>
+      <point x="382.0" y="619.0"/>
+      <point x="381.0" y="630.0"/>
+      <point x="384.0" y="642.0" type="curve"/>
+      <point x="455.0" y="645.0"/>
+      <point x="535.0" y="686.0"/>
+      <point x="572.0" y="698.0" type="curve"/>
+      <point x="581.0" y="698.0"/>
+      <point x="588.0" y="694.0"/>
+      <point x="588.0" y="685.0" type="curve" smooth="yes"/>
+      <point x="588.0" y="685.0"/>
+      <point x="585.0" y="648.0"/>
+      <point x="585.0" y="583.0" type="curve" smooth="yes"/>
+      <point x="585.0" y="371.599609375" type="line"/>
+      <point x="641.799804688" y="407.400390625"/>
+      <point x="713.200195312" y="444.0"/>
+      <point x="750.0" y="444.0" type="curve" smooth="yes"/>
+      <point x="836.0" y="444.0"/>
+      <point x="883.0" y="394.0"/>
+      <point x="883.0" y="284.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.sfdlib.decomposeAndRemoveOverlap</key>
+      <true/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0324" format="2">
+  <unicode hex="0324"/>
+  <anchor x="-241.6" y="-116.0" name="_below"/>
+  <outline>
+    <component base="dotbelowcomb" xOffset="98.0"/>
+    <component base="dotbelowcomb" xOffset="-100.0"/>
+  </outline>
+</glyph>

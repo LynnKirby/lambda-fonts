@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflex" format="2">
+  <advance width="557"/>
+  <unicode hex="00CA"/>
+  <anchor x="296.0" y="894.0" name="above"/>
+  <anchor x="279.0" y="-107.0" name="below"/>
+  <anchor x="279.0" y="4.0" name="cedilla"/>
+  <outline>
+    <component base="Epsilon"/>
+    <component base="circumflex.cap" xOffset="428.0" yOffset="166.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fiveeighths" format="2">
+  <advance width="700"/>
+  <unicode hex="215D"/>
+  <outline>
+    <contour>
+      <point x="658.6" y="601.0" type="line"/>
+      <point x="714.5" y="588.0" type="line"/>
+      <point x="163.4" y="-67.0" type="line"/>
+      <point x="108.5" y="-54.0" type="line"/>
+    </contour>
+    <component base="uni2075" xOffset="-4.0" yOffset="-48.0"/>
+    <component base="uni2078" xOffset="242.0" yOffset="-498.0"/>
+  </outline>
+</glyph>

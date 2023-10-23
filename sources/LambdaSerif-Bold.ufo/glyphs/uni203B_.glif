@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni203B" format="2">
+  <advance width="608"/>
+  <unicode hex="203B"/>
+  <outline>
+    <contour>
+      <point x="86.6" y="471.3" type="line"/>
+      <point x="120.1" y="496.6" type="line"/>
+      <point x="306.0" y="249.9" type="line"/>
+      <point x="488.8" y="492.5" type="line"/>
+      <point x="522.3" y="467.2" type="line"/>
+      <point x="332.3" y="215.0" type="line"/>
+      <point x="512.3" y="-23.9" type="line"/>
+      <point x="478.8" y="-49.2" type="line"/>
+      <point x="306.0" y="180.1" type="line"/>
+      <point x="130.1" y="-53.2" type="line"/>
+      <point x="96.6" y="-28.0" type="line"/>
+      <point x="279.7" y="215.0" type="line"/>
+    </contour>
+    <component base="period" xOffset="183.0" yOffset="-86.0"/>
+    <component base="period" xOffset="383.0" yOffset="162.0"/>
+    <component base="period" xOffset="-19.0" yOffset="162.0"/>
+    <component base="period" xOffset="183.0" yOffset="409.0"/>
+  </outline>
+</glyph>

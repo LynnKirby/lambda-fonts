@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni020E" format="2">
+  <advance width="730"/>
+  <unicode hex="020E"/>
+  <anchor x="350.0" y="-110.0" name="below"/>
+  <anchor x="350.0" y="0.0" name="cedilla"/>
+  <outline>
+    <component base="O"/>
+    <component base="breveinvertedcmb.cap" xOffset="520.0"/>
+  </outline>
+</glyph>

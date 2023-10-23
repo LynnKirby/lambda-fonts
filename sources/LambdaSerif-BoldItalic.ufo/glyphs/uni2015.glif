@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2015" format="2">
+  <advance width="922"/>
+  <unicode hex="2015"/>
+  <outline>
+    <contour>
+      <point x="85.0" y="296.8" type="line"/>
+      <point x="950.0" y="296.8" type="line"/>
+      <point x="940.0" y="228.2" type="line"/>
+      <point x="76.0" y="228.2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

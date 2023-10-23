@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Umacron" format="2">
+  <advance width="661"/>
+  <unicode hex="016A"/>
+  <anchor x="346.0" y="1000.0" name="above"/>
+  <anchor x="328.0" y="-110.0" name="below"/>
+  <anchor x="328.0" y="4.0" name="cedilla"/>
+  <anchor x="336.0" y="321.0" name="middle"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni0304" xOffset="558.0" yOffset="209.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

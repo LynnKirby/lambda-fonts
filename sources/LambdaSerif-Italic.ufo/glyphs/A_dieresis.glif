@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresis" format="2">
+  <advance width="667"/>
+  <unicode hex="00C4"/>
+  <note>
+Dies sind alternative Umlaute, die im Deutschen vorzuziehen sind.
+</note>
+  <outline>
+    <component base="Alpha"/>
+    <component base="dieresis.cap" xOffset="570.0" yOffset="-2.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,1,1</string>
+    </dict>
+  </lib>
+</glyph>

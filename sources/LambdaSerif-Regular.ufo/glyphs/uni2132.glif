@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2132" format="2">
+  <advance width="485"/>
+  <unicode hex="2132"/>
+  <anchor x="-22.0" y="-85.0" name="right"/>
+  <anchor x="332.0" y="648.0" name="cedilla"/>
+  <anchor x="276.0" y="757.0" name="below"/>
+  <anchor x="201.0" y="-203.0" name="above"/>
+  <outline>
+    <component base="F" xScale="-1.0" yScale="-1.0" xOffset="485.0" yOffset="647.0"/>
+  </outline>
+</glyph>

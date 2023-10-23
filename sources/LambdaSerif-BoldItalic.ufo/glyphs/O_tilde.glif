@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otilde" format="2">
+  <advance width="699"/>
+  <unicode hex="00D5"/>
+  <anchor x="361.0" y="-110.0" name="below"/>
+  <anchor x="354.0" y="-7.0" name="cedilla"/>
+  <outline>
+    <component base="O"/>
+    <component base="tildecomb" xOffset="632.0" yOffset="169.0"/>
+  </outline>
+</glyph>

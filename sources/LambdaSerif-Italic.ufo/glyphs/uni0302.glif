@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0302" format="2">
+  <unicode hex="0302"/>
+  <anchor x="2.8" y="718.0" name="aboveMark"/>
+  <anchor x="-35.0" y="548.0" name="_aboveMark"/>
+  <anchor x="2.8" y="697.0" name="_above"/>
+  <outline>
+    <contour>
+      <point x="27.8" y="697.0" type="line"/>
+      <point x="47.2" y="650.0"/>
+      <point x="74.7" y="608.0"/>
+      <point x="102.6" y="568.0" type="curve"/>
+      <point x="78.7" y="554.0" type="line"/>
+      <point x="45.6" y="583.0"/>
+      <point x="17.7" y="608.0"/>
+      <point x="-9.0" y="644.0" type="curve"/>
+      <point x="-53.7" y="606.0"/>
+      <point x="-90.8" y="581.0"/>
+      <point x="-134.3" y="554.0" type="curve"/>
+      <point x="-151.4" y="568.0" type="line"/>
+      <point x="-107.3" y="608.0"/>
+      <point x="-60.6" y="651.0"/>
+      <point x="-22.2" y="697.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

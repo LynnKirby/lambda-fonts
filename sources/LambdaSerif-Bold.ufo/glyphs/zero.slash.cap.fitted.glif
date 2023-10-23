@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.slash.cap.fitted" format="2">
+  <advance height="1077" width="571"/>
+  <outline>
+    <component base="zero.cap.fitted"/>
+    <component base="zslash.cap.util" xOffset="27.0" yOffset="25.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.sfdlib.decomposeAndRemoveOverlap</key>
+      <true/>
+    </dict>
+  </lib>
+</glyph>

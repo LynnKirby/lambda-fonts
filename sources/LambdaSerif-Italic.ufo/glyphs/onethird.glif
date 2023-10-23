@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onethird" format="2">
+  <advance width="660"/>
+  <unicode hex="2153"/>
+  <anchor x="248" y="0" name="caret_1"/>
+  <anchor x="427" y="0" name="caret_2"/>
+  <outline>
+    <component base="uni2083" xOffset="358.0" yOffset="33.0"/>
+    <component base="uni215F"/>
+  </outline>
+</glyph>

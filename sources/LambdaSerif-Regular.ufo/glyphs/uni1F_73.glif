@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F73" format="2">
+  <advance width="397"/>
+  <unicode hex="1F73"/>
+  <outline>
+    <component base="epsilontonos"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

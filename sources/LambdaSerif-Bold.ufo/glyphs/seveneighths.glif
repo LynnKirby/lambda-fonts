@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seveneighths" format="2">
+  <advance width="660"/>
+  <unicode hex="215E"/>
+  <outline>
+    <contour>
+      <point x="532.0" y="601.0" type="line"/>
+      <point x="574.0" y="593.0" type="line"/>
+      <point x="115.0" y="-62.0" type="line"/>
+      <point x="74.0" y="-54.0" type="line"/>
+    </contour>
+    <component base="uni2077" xOffset="1.0" yOffset="-48.0"/>
+    <component base="uni2078" xOffset="352.0" yOffset="-497.0"/>
+  </outline>
+</glyph>

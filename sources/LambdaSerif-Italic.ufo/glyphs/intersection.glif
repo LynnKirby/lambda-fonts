@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="intersection" format="2">
+  <advance width="484"/>
+  <unicode hex="2229"/>
+  <outline>
+    <contour>
+      <point x="117.0" y="0.0" type="line"/>
+      <point x="68.0" y="0.0" type="line"/>
+      <point x="110.0" y="212.0" type="line" smooth="yes"/>
+      <point x="134.0" y="335.0"/>
+      <point x="181.0" y="439.0"/>
+      <point x="336.0" y="439.0" type="curve" smooth="yes"/>
+      <point x="483.0" y="439.0"/>
+      <point x="487.0" y="340.0"/>
+      <point x="462.0" y="212.0" type="curve" smooth="yes"/>
+      <point x="421.0" y="0.0" type="line"/>
+      <point x="372.0" y="0.0" type="line"/>
+      <point x="414.0" y="212.0" type="line"/>
+      <point x="433.0" y="314.0"/>
+      <point x="434.0" y="403.0"/>
+      <point x="330.0" y="403.0" type="curve" smooth="yes"/>
+      <point x="213.0" y="403.0"/>
+      <point x="180.0" y="323.0"/>
+      <point x="158.0" y="212.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

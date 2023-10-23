@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obreve" format="2">
+  <advance width="702"/>
+  <unicode hex="014E"/>
+  <anchor x="350.0" y="-110.0" name="below"/>
+  <anchor x="350.0" y="0.0" name="cedilla"/>
+  <outline>
+    <component base="O"/>
+    <component base="breve.cap" xOffset="515.0" yOffset="148.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

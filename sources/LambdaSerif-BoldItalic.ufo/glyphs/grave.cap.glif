@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.cap" format="2">
+  <anchor x="-167.4" y="818.0" name="_above"/>
+  <outline>
+    <component base="uni1EDC" xOffset="-508.0" yOffset="-126.0"/>
+  </outline>
+</glyph>

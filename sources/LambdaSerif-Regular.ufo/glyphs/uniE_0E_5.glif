@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE0E5" format="2">
+  <advance width="695"/>
+  <anchor x="364.0" y="894.0" name="above"/>
+  <outline>
+    <component base="tildecomb" xOffset="506.0" yOffset="126.0"/>
+    <component base="A.alt"/>
+  </outline>
+</glyph>

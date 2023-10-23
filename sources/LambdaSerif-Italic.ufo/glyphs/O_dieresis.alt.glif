@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresis.alt" format="2">
+  <advance width="668"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni0307" xOffset="312.0" yOffset="102.0"/>
+    <component base="uni0307" xOffset="721.0" yOffset="102.0"/>
+  </outline>
+</glyph>

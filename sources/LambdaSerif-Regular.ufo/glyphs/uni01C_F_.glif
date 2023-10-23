@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01CF" format="2">
+  <advance width="297"/>
+  <unicode hex="01CF"/>
+  <outline>
+    <component base="I"/>
+    <component base="caron.cap" xOffset="327.0" yOffset="173.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

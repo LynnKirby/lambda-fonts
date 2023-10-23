@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EA4" format="2">
+  <advance width="740"/>
+  <unicode hex="1EA4"/>
+  <outline>
+    <contour>
+      <point x="556.1" y="975.4" type="curve"/>
+      <point x="573.5" y="966.1"/>
+      <point x="592.6" y="947.9"/>
+      <point x="601.6" y="931.4" type="curve"/>
+      <point x="599.5" y="921.8" type="line"/>
+      <point x="498.7" y="875.4" type="line" smooth="yes"/>
+      <point x="488.6" y="870.7"/>
+      <point x="480.5" y="869.8"/>
+      <point x="474.2" y="869.8" type="curve" smooth="yes"/>
+      <point x="467.9" y="869.8"/>
+      <point x="460.2" y="875.4"/>
+      <point x="460.2" y="881.8" type="curve" smooth="yes"/>
+      <point x="460.2" y="887.4"/>
+      <point x="460.4" y="891.9"/>
+      <point x="467.2" y="898.6" type="curve" smooth="yes"/>
+      <point x="481.9" y="913.0"/>
+      <point x="528.1" y="953.0"/>
+    </contour>
+    <component base="Acircumflex"/>
+  </outline>
+</glyph>

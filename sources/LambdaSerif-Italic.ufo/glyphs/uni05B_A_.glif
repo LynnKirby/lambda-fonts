@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni05BA" format="2">
+  <unicode hex="05BA"/>
+  <outline>
+    <component base="uni05B9"/>
+  </outline>
+</glyph>

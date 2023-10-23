@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="utilde" format="2">
+  <advance width="531"/>
+  <unicode hex="0169"/>
+  <anchor x="261.0" y="809.0" name="above"/>
+  <outline>
+    <component base="u"/>
+    <component base="tildecomb" xOffset="408.0" yOffset="-48.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflex" format="2">
+  <advance width="504"/>
+  <unicode hex="00F4"/>
+  <anchor x="243.0" y="-110.0" name="below"/>
+  <anchor x="372.0" y="44.0" name="ogonek"/>
+  <anchor x="241.0" y="-3.0" name="cedilla"/>
+  <anchor x="255.0" y="833.0" name="above"/>
+  <anchor x="420.0" y="396.0" name="komb_OR"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni0302" xOffset="391.0" yOffset="-51.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ntilde" format="2">
+  <advance width="542"/>
+  <unicode hex="00F1"/>
+  <anchor x="255.0" y="834.0" name="above"/>
+  <outline>
+    <component base="n"/>
+    <component base="tildecomb" xOffset="430.0" yOffset="-48.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

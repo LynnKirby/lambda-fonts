@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01DE" format="2">
+  <advance width="695"/>
+  <unicode hex="01DE"/>
+  <outline>
+    <component base="uni0304" xOffset="577.0" yOffset="265.0"/>
+    <component base="Adieresis.alt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

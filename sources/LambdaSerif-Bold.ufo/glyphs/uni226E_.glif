@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni226E" format="2">
+  <advance width="527"/>
+  <unicode hex="226E"/>
+  <outline>
+    <contour>
+      <point x="342.7" y="301.9" type="line"/>
+      <point x="305.8" y="191.6" type="line"/>
+      <point x="491.0" y="124.0" type="line"/>
+      <point x="491.0" y="62.0" type="line"/>
+      <point x="287.2" y="136.1" type="line"/>
+      <point x="224.0" y="-53.0" type="line"/>
+      <point x="186.0" y="-41.0" type="line"/>
+      <point x="250.0" y="149.6" type="line"/>
+      <point x="62.0" y="218.0" type="line"/>
+      <point x="62.0" y="262.0" type="line"/>
+      <point x="319.0" y="355.5" type="line"/>
+      <point x="390.0" y="567.0" type="line"/>
+      <point x="428.0" y="557.0" type="line"/>
+      <point x="366.4" y="372.7" type="line"/>
+      <point x="491.0" y="418.0" type="line"/>
+      <point x="491.0" y="356.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="295.2" y="284.6" type="line"/>
+      <point x="173.0" y="240.0" type="line"/>
+      <point x="268.6" y="205.1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

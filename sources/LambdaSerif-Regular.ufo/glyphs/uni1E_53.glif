@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E53" format="2">
+  <advance width="504"/>
+  <unicode hex="1E53"/>
+  <outline>
+    <contour>
+      <point x="273.0" y="767.0" type="line"/>
+      <point x="275.3" y="767.9"/>
+      <point x="279.8" y="768.8"/>
+      <point x="283.7" y="768.8" type="curve" smooth="yes"/>
+      <point x="288.6" y="768.8"/>
+      <point x="308.4" y="768.0"/>
+      <point x="326.1" y="748.6" type="curve"/>
+      <point x="328.4" y="738.9" type="line"/>
+      <point x="239.8" y="643.0" type="line" smooth="yes"/>
+      <point x="228.3" y="629.8"/>
+      <point x="222.2" y="626.2"/>
+      <point x="216.8" y="626.2" type="curve" smooth="yes"/>
+      <point x="211.4" y="626.2"/>
+      <point x="206.0" y="631.5"/>
+      <point x="206.0" y="637.7" type="curve" smooth="yes"/>
+      <point x="206.0" y="647.6"/>
+      <point x="208.5" y="651.0"/>
+      <point x="214.8" y="662.3" type="curve" smooth="yes"/>
+    </contour>
+    <component base="omacron"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

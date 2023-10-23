@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.taboldstyle" format="2">
+  <advance width="444"/>
+  <outline>
+    <component base="seven" xOffset="-52.0" yOffset="-171.0"/>
+  </outline>
+</glyph>

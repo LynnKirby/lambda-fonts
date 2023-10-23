@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.cap.fitted" format="2">
+  <advance height="1078" width="494"/>
+  <outline>
+    <component base="two.cap" xOffset="10.0"/>
+  </outline>
+</glyph>

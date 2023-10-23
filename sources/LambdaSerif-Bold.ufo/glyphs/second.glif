@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="second" format="2">
+  <advance width="392"/>
+  <unicode hex="2033"/>
+  <outline>
+    <component base="tonos" xOffset="156.0" yOffset="-30.0"/>
+    <component base="tonos" xOffset="4.0" yOffset="-32.0"/>
+  </outline>
+</glyph>

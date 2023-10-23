@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal" format="2">
+  <advance width="527"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="68.0" y="11.0" type="line"/>
+      <point x="68.0" y="58.0" type="line"/>
+      <point x="458.0" y="58.0" type="line"/>
+      <point x="458.0" y="11.0" type="line"/>
+    </contour>
+    <component base="less" xOffset="20.0" yOffset="13.0"/>
+  </outline>
+</glyph>

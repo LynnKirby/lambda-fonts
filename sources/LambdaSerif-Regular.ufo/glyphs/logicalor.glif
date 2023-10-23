@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalor" format="2">
+  <advance width="481"/>
+  <unicode hex="2228"/>
+  <outline>
+    <contour>
+      <point x="239.0" y="46.0" type="line"/>
+      <point x="241.0" y="46.0" type="line"/>
+      <point x="413.0" y="434.0" type="line"/>
+      <point x="466.0" y="434.0" type="line"/>
+      <point x="266.0" y="-10.0" type="line"/>
+      <point x="214.0" y="-10.0" type="line"/>
+      <point x="15.0" y="434.0" type="line"/>
+      <point x="68.0" y="434.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

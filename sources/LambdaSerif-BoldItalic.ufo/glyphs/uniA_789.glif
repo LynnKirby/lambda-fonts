@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA789" format="2">
+  <advance width="229"/>
+  <unicode hex="A789"/>
+  <outline>
+    <component base="period" xScale="0.9" yScale="0.9" xOffset="36.175" yOffset="57.2"/>
+    <component base="period" xScale="0.9" yScale="0.9" xOffset="78.275" yOffset="256.7"/>
+  </outline>
+</glyph>

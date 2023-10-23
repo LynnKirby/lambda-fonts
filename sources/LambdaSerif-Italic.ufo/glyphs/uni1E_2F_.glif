@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E2F" format="2">
+  <advance width="276"/>
+  <unicode hex="1E2F"/>
+  <outline>
+    <contour>
+      <point x="317.9" y="740.0" type="line"/>
+      <point x="320.4" y="740.9"/>
+      <point x="325.1" y="741.8"/>
+      <point x="329.0" y="741.8" type="curve" smooth="yes"/>
+      <point x="333.9" y="741.8"/>
+      <point x="353.4" y="741.0"/>
+      <point x="367.7" y="721.6" type="curve"/>
+      <point x="368.3" y="711.9" type="line"/>
+      <point x="262.7" y="616.0" type="line" smooth="yes"/>
+      <point x="248.8" y="602.8"/>
+      <point x="242.0" y="599.2"/>
+      <point x="236.6" y="599.2" type="curve" smooth="yes"/>
+      <point x="231.2" y="599.2"/>
+      <point x="226.8" y="604.5"/>
+      <point x="227.9" y="610.7" type="curve" smooth="yes"/>
+      <point x="229.7" y="620.6"/>
+      <point x="232.8" y="624.0"/>
+      <point x="241.1" y="635.3" type="curve" smooth="yes"/>
+    </contour>
+    <component base="idieresis"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zslash.cap.util" format="2">
+  <advance width="536"/>
+  <outline>
+    <contour>
+      <point x="578.459960938" y="651.193359375" type="line"/>
+      <point x="103.326171875" y="-70.6640625" type="line"/>
+      <point x="64.5400390625" y="-50.193359375" type="line"/>
+      <point x="541.828125" y="671.6640625" type="line"/>
+    </contour>
+  </outline>
+</glyph>

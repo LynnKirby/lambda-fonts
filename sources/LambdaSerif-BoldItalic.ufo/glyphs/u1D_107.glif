@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1D107" format="2">
+  <advance width="597"/>
+  <unicode hex="1D107"/>
+  <outline>
+    <contour>
+      <point x="463.799804688" y="-233.0" type="line"/>
+      <point x="347.400390625" y="-233.0" type="line"/>
+      <point x="478.200195312" y="698.0" type="line"/>
+      <point x="594.599609375" y="698.0" type="line"/>
+    </contour>
+    <component base="colon" xOffset="-8.0"/>
+    <component base="bar" xOffset="162.0"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflex.sc" format="2">
+  <advance width="563"/>
+  <outline>
+    <component base="uni0302" xOffset="422.0" yOffset="-50.0"/>
+    <component base="o.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

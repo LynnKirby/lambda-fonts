@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni043D" format="2">
+  <advance width="586"/>
+  <unicode hex="043D"/>
+  <anchor x="297.0" y="685.0" name="above"/>
+  <anchor x="304.0" y="-110.0" name="below"/>
+  <anchor x="155.0" y="-3.0" name="cedilla"/>
+  <outline>
+    <component base="uni029C"/>
+  </outline>
+</glyph>

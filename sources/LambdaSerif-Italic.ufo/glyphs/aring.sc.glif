@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aring.sc" format="2">
+  <advance width="519"/>
+  <outline>
+    <component base="uni0325" xOffset="616.3" yOffset="698.0"/>
+    <component base="a.sc"/>
+  </outline>
+</glyph>
