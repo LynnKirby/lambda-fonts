@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: none
+#
+# SPDX-License-Identifier: 0BSD
+
+-r requirements.txt
+
+pysilfont @ git+https://github.com/silnrsi/pysilfont@v1.7.0

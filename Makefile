@@ -2,6 +2,16 @@
 #
 # SPDX-License-Identifier: 0BSD
 
+ifeq ($(OS),Windows_NT)
+PYTHON = python
+else
+PYTHON = python3
+endif
+
+#
+# Build fonts
+#
+
 all: fonts
 
 fonts: serif
@@ -21,3 +31,17 @@ serif-italic:
 
 serif-bolditalic:
 	fontmake -u sources/LambdaSerif-BoldItalic.ufo -o otf ttf --output-dir _build/fonts
+
+#
+# Developer tools
+#
+
+.PHONY: normalize-ufos
+
+normalize-ufos-cmd = $(PYTHON) scripts/normalize-ufo.py --log-dir _build/pysilfont-logs
+
+normalize-ufos:
+	$(normalize-ufos-cmd) sources/LambdaSerif-Regular.ufo
+	$(normalize-ufos-cmd) sources/LambdaSerif-Bold.ufo
+	$(normalize-ufos-cmd) sources/LambdaSerif-Italic.ufo
+	$(normalize-ufos-cmd) sources/LambdaSerif-BoldItalic.ufo
