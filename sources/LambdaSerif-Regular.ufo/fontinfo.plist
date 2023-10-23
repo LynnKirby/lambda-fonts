@@ -6,10 +6,12 @@
   <integer>754</integer>
   <key>capHeight</key>
   <integer>658</integer>
+  <key>copyright</key>
+  <string>2023 The Lambda Fonts Project Authors</string>
   <key>descender</key>
   <integer>-246</integer>
   <key>familyName</key>
-  <string>Libertinus Serif</string>
+  <string>Lambda Serif</string>
   <key>guidelines</key>
   <array>
     <dict>
@@ -87,17 +89,6 @@
   </array>
   <key>italicAngle</key>
   <integer>0</integer>
-  <key>note</key>
-  <string>2003-08-29: Created.
-2004-07-25: v(1.0) release candidate
-2005-12-28: v(1.1.0) stable
-2006-01-01: v(2.0.0) stable
-2006-09-05: v(2.2.0) stable
-2006-12-04: v(2.3.0) stable
-2007-03-11: v(2.4.0) stable
-2007-12-00: v(2.7.0) stable
-2008-06-00: v(2.8.14) stable
-</string>
   <key>openTypeGaspRangeRecords</key>
   <array>
     <dict>
@@ -141,9 +132,9 @@
   <key>openTypeNameLicenseURL</key>
   <string>https://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>Caleb Maclennan</string>
+  <string>Lynn Kirby</string>
   <key>openTypeNameManufacturerURL</key>
-  <string>https://github.com/alerque/libertinus</string>
+  <string>https://github.com/LynnKirby/lambda-fonts</string>
   <key>openTypeOS2FamilyClass</key>
   <array>
     <integer>1</integer>
@@ -211,9 +202,9 @@
     <integer>-227</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>LibertinusSerif-Regular</string>
+  <string>LambdaSerif-Regular</string>
   <key>postscriptFullName</key>
-  <string>Libertinus Serif Regular</string>
+  <string>Lambda Serif Regular</string>
   <key>postscriptOtherBlues</key>
   <array>
     <integer>-238</integer>
@@ -241,7 +232,9 @@
   <key>unitsPerEm</key>
   <integer>1000</integer>
   <key>versionMajor</key>
-  <integer>5</integer>
+  <integer>1</integer>
+  <key>versionMinor</key>
+  <integer>0</integer>
   <key>xHeight</key>
   <integer>429</integer>
 </dict>
