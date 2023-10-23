@@ -1,0 +1,49 @@
+languagesystem DFLT dflt;
+languagesystem cyrl dflt;
+languagesystem cyrl SRB;
+languagesystem cyrl MKD;
+languagesystem grek dflt;
+languagesystem hebr dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn dflt;
+languagesystem latn FIN;
+languagesystem latn ISM;
+languagesystem latn KAZ;
+languagesystem latn LSM;
+languagesystem latn NLD;
+languagesystem latn NOR;
+languagesystem latn NSM;
+languagesystem latn SKS;
+languagesystem latn SSM;
+languagesystem latn SVE;
+languagesystem latn TAT;
+languagesystem latn TRK;
+
+include(locl.feax)
+include(frac.feax)
+include(small.feax)
+include(case.feax)
+include(sc.feax)
+include(dhlig.feax)
+include(num.feax)
+include(salt.feax)
+include(ccmp.feax)
+include(sscv.feax)
+include(liga.feax)
+include(calt.feax)
+include(gdef.feax)
+
+# TODO: Move kerning data into kerning.plist
+ifinfo(styleName, "^Regular$") {
+  include(kern_Regular.feax)
+}
+ifinfo(styleName, "^Bold$") {
+  include(kern_Bold.feax)
+}
+ifinfo(styleName, "^Italic$") {
+  include(kern_Italic.feax)
+}
+ifinfo(styleName, "^Bold Italic$") {
+  include(kern_BoldItalic.feax)
+}

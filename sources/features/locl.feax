@@ -1,0 +1,55 @@
+lookup locl_cyrillic {
+  sub uni0431 by uni0431.ital;
+
+  ifinfo(styleName, "Italic") {
+    sub uni0433 by uni0433.ital;
+    sub uni0434 by uni0434.ital;
+    sub uni043F by uni043F.ital;
+    sub uni0442 by uni0442.ital;
+    sub uni0453 by uni0453.ital;
+  }
+} locl_cyrillic;
+
+lookup locl_sami {
+  sub Eng by Eng.UCStyle;
+} locl_sami;
+
+lookup locl_ij {
+  sub I J by I_J;
+  sub i j by i_j;
+  sub Iacute J by IJacute;
+  sub IJ acutecomb by IJacute;
+  sub iacute j by ijacute;
+  sub ij acutecomb by ijacute;
+} locl_ij;
+
+feature locl {
+  script cyrl;
+    language SRB exclude_dflt;
+      lookup locl_cyrillic;
+    language MKD exclude_dflt;
+      lookup locl_cyrillic;
+
+  script latn;
+    language FIN exclude_dflt;
+      lookup locl_sami;
+    language ISM exclude_dflt;
+      lookup locl_sami;
+    language LSM exclude_dflt;
+      lookup locl_sami;
+    language NOR exclude_dflt;
+      lookup locl_sami;
+    language NSM exclude_dflt;
+      lookup locl_sami;
+    language SKS exclude_dflt;
+      lookup locl_sami;
+    language SSM exclude_dflt;
+      lookup locl_sami;
+    language SVE exclude_dflt;
+      lookup locl_sami;
+    language TRK exclude_dflt;
+      lookup locl_sami;
+
+    language NLD exclude_dflt;
+      lookup locl_ij;
+} locl;

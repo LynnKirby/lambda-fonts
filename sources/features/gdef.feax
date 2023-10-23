@@ -1,0 +1,129 @@
+ifinfo(styleName, "^Regular$") {
+  table GDEF {
+    LigatureCaretByPos onequarter 215 424;
+    LigatureCaretByPos onehalf 208 414;
+    LigatureCaretByPos threequarters 260 447;
+    LigatureCaretByPos uni01F1 700;
+    LigatureCaretByPos uni020F -2;
+    LigatureCaretByPos Iotatonos 78;
+    LigatureCaretByPos uni2161 260;
+    LigatureCaretByPos uni2162 263 489;
+    LigatureCaretByPos uni2163 256;
+    LigatureCaretByPos uni2165 571;
+    LigatureCaretByPos uni2166 554 789;
+    LigatureCaretByPos uni2167 584 812 1040;
+    LigatureCaretByPos uni2168 242;
+    LigatureCaretByPos uni216A 564;
+    LigatureCaretByPos uni216B 617 832;
+    LigatureCaretByPos uni2171 230;
+    LigatureCaretByPos uni2172 236 434;
+    LigatureCaretByPos f_f 266;
+    LigatureCaretByPos f_i 277;
+    LigatureCaretByPos f_l 288;
+    LigatureCaretByPos f_f_i 266 550;
+    LigatureCaretByPos f_f_l 268 539;
+    LigatureCaretByPos longs_t 265;
+    LigatureCaretByPos s_t 357;
+    LigatureCaretByPos f_b 301;
+    LigatureCaretByPos f_f_h 260 553;
+    LigatureCaretByPos f_f_j 266 548;
+    LigatureCaretByPos f_f_k 264 553;
+    LigatureCaretByPos f_f_t 258 548;
+    LigatureCaretByPos f_h 287;
+    LigatureCaretByPos f_j 296;
+    LigatureCaretByPos f_k 279;
+    LigatureCaretByPos f_t 298;
+    LigatureCaretByPos c_k 406;
+    LigatureCaretByPos c_h 407;
+    LigatureCaretByPos T_h 472;
+    LigatureCaretByPos longs_s 266;
+    LigatureCaretByPos t_t 306;
+    LigatureCaretByPos c_t 407;
+    LigatureCaretByPos longs_i 279;
+    LigatureCaretByPos longs_longs 251;
+    LigatureCaretByPos longs_longs_i 254 536;
+    LigatureCaretByPos longs_l 268;
+    LigatureCaretByPos f_f.short 266;
+  } GDEF;
+}
+
+ifinfo(styleName, "^Bold$") {
+  table GDEF {
+    LigatureCaretByPos Iotatonos 78;
+    LigatureCaretByPos uni2161 325;
+    LigatureCaretByPos uni2162 325 613;
+    LigatureCaretByPos uni2163 347;
+    LigatureCaretByPos uni2165 656;
+    LigatureCaretByPos uni2166 664 970;
+    LigatureCaretByPos uni2167 655 972 1260;
+    LigatureCaretByPos uni2168 324;
+    LigatureCaretByPos uni216A 679;
+    LigatureCaretByPos uni216B 676 969;
+    LigatureCaretByPos uni2171 328;
+    LigatureCaretByPos uni2172 623 327;
+    LigatureCaretByPos uni2173 327;
+    LigatureCaretByPos uni2175 516;
+    LigatureCaretByPos uni2176 813 515;
+    LigatureCaretByPos uni2177 497 812 1112;
+    LigatureCaretByPos uni2178 327;
+    LigatureCaretByPos uni217B 527 819;
+    LigatureCaretByPos f_f 329;
+    LigatureCaretByPos f_i 327;
+    LigatureCaretByPos f_l 349;
+    LigatureCaretByPos f_f_i 282 566;
+    LigatureCaretByPos f_f_l 326 651;
+    LigatureCaretByPos longs_t 317;
+    LigatureCaretByPos s_t 411;
+    LigatureCaretByPos f_j 296;
+    LigatureCaretByPos f_t 298;
+    LigatureCaretByPos T_h 523;
+    LigatureCaretByPos c_t 422;
+    LigatureCaretByPos c_k 430;
+    LigatureCaretByPos t_t 358;
+  } GDEF;
+}
+
+ifinfo(styleName, "^Italic$") {
+  table GDEF {
+    LigatureCaretByPos ij 255;
+    LigatureCaretByPos uni2116 -62;
+    LigatureCaretByPos onethird 248 427;
+    LigatureCaretByPos uni2161 250;
+    LigatureCaretByPos f_f 257;
+    LigatureCaretByPos f_i 280;
+    LigatureCaretByPos f_l 314;
+    LigatureCaretByPos f_f_i 280 538;
+    LigatureCaretByPos f_f_l 283 557;
+    LigatureCaretByPos longs_t 261;
+    LigatureCaretByPos s_t 354;
+    LigatureCaretByPos f_t 298;
+    LigatureCaretByPos c_k 386;
+    LigatureCaretByPos c_h 387;
+    LigatureCaretByPos t_t 296;
+    LigatureCaretByPos c_t 371;
+    LigatureCaretByPos T_h 444;
+    LigatureCaretByPos f_j 287;
+  } GDEF;
+}
+
+ifinfo(styleName, "^Bold Italic$") {
+  table GDEF {
+    LigatureCaretByPos ij 255;
+    LigatureCaretByPos uni2116 -62;
+    LigatureCaretByPos uni2161 250;
+    LigatureCaretByPos f_f 257;
+    LigatureCaretByPos f_i 348;
+    LigatureCaretByPos f_t 321;
+    LigatureCaretByPos c_k 424;
+    LigatureCaretByPos c_h 431;
+    LigatureCaretByPos T_h 530;
+    LigatureCaretByPos f_f.short 404;
+    LigatureCaretByPos f_k 381;
+    LigatureCaretByPos f_l 362;
+    LigatureCaretByPos f_f_i 717 368;
+    LigatureCaretByPos f_f_l 686 366;
+    LigatureCaretByPos longs_t 286;
+    LigatureCaretByPos f_j 370;
+  } GDEF;
+}
+

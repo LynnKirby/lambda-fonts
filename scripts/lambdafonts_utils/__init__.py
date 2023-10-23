@@ -4,12 +4,11 @@
 
 from __future__ import annotations
 
-import subprocess
-from pathlib import Path
-import sys
 import os
-
+import subprocess
+import sys
 import typing
+from pathlib import Path
 
 CheckFix = typing.Literal["check", "fix", "none"]
 
@@ -19,12 +18,12 @@ def run_pysilfont_script(
     script: str,
     log_dir: Path | None = None,
     params: dict[str, str] | None = None,
-    positional: list[str] | None = None,
+    args: list[str] | None = None,
 ) -> int:
     params = params or {}
-    positional = positional or []
+    args = args or []
 
-    args = [
+    run_args = [
         sys.executable,
         "-m",
         f"silfont.scripts.{script}",
@@ -33,9 +32,9 @@ def run_pysilfont_script(
     if log_dir is not None:
         args += ["-l", str(log_dir)]
 
-    args += positional
+    run_args += args
 
-    result = subprocess.run(args=args)
+    result = subprocess.run(args=run_args)
 
     return result.returncode
 
@@ -49,7 +48,7 @@ def run_psfnormalize(
     run_pysilfont_script(
         script="psfnormalize",
         log_dir=log_dir,
-        positional=[str(ufo)],
+        args=[str(ufo)],
         params={"checkfix": checkfix},
     )
 
@@ -63,8 +62,21 @@ def run_psffixfontlab(
     run_pysilfont_script(
         script="psffixfontlab",
         log_dir=log_dir,
-        positional=[str(ufo)],
+        args=[str(ufo)],
         params={"checkfix": checkfix},
+    )
+
+
+def run_psfmakefea(
+    ufo: Path,
+    fea: Path,
+    *,
+    log_dir: Path | None = None,
+) -> None:
+    run_pysilfont_script(
+        script="psfmakefea",
+        log_dir=log_dir,
+        args=["-i", str(fea), "-o", str(ufo / "features.fea"), str(ufo)],
     )
 
 

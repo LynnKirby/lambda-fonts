@@ -1,0 +1,7 @@
+feature sups {
+  include(_superiors.feax)
+} sups;
+
+feature subs {
+  include(_inferiors.feax)
+} subs;
