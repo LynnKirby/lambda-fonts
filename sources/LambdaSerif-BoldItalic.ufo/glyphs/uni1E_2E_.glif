@@ -5,7 +5,7 @@
   <outline>
     <component base="Idieresis"/>
     <contour>
-      <point x="418" y="1013" type="curve"/>
+      <point x="418" y="1013" type="line"/>
       <point x="436" y="1003"/>
       <point x="455" y="983"/>
       <point x="462" y="965" type="curve"/>
@@ -19,9 +19,10 @@
       <point x="300" y="910" type="curve" smooth="yes"/>
       <point x="301" y="916"/>
       <point x="302" y="921"/>
-      <point x="310" y="929" type="curve" smooth="yes"/>
+      <point x="310" y="929" type="curve"/>
       <point x="328" y="944"/>
       <point x="384" y="988"/>
+      <point x="418" y="1013" type="curve"/>
     </contour>
   </outline>
 </glyph>

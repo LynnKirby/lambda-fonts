@@ -6,7 +6,7 @@
     <component base="uni0304" xOffset="458" yOffset="195"/>
     <component base="Epsilon"/>
     <contour>
-      <point x="535" y="894" type="curve"/>
+      <point x="535" y="894" type="line"/>
       <point x="554" y="884"/>
       <point x="575" y="864"/>
       <point x="585" y="846" type="curve"/>
@@ -20,9 +20,10 @@
       <point x="430" y="791" type="curve" smooth="yes"/>
       <point x="430" y="797"/>
       <point x="430" y="802"/>
-      <point x="437" y="810" type="curve" smooth="yes"/>
+      <point x="437" y="810" type="curve"/>
       <point x="454" y="825"/>
       <point x="504" y="870"/>
+      <point x="535" y="894" type="curve"/>
     </contour>
   </outline>
 </glyph>

@@ -4,7 +4,7 @@
   <anchor x="-255" y="-82" name="_below"/>
   <outline>
     <contour>
-      <point x="-250" y="-41" type="curve" smooth="yes"/>
+      <point x="-250" y="-41" type="line"/>
       <point x="-212" y="-41"/>
       <point x="-188" y="-75"/>
       <point x="-188" y="-127" type="curve" smooth="yes"/>
@@ -25,6 +25,7 @@
       <point x="-300" y="-84" type="curve" smooth="yes"/>
       <point x="-300" y="-60"/>
       <point x="-279" y="-41"/>
+      <point x="-250" y="-41" type="curve"/>
     </contour>
   </outline>
 </glyph>

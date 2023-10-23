@@ -9,7 +9,7 @@
   <anchor x="371" y="44" name="ogonek"/>
   <outline>
     <contour>
-      <point x="161" y="170" type="curve" smooth="yes"/>
+      <point x="161" y="170" type="line" smooth="yes"/>
       <point x="161" y="65"/>
       <point x="204" y="27"/>
       <point x="233" y="27" type="curve" smooth="yes"/>
@@ -27,9 +27,10 @@
       <point x="306" y="406" type="curve" smooth="yes"/>
       <point x="200" y="406"/>
       <point x="161" y="260"/>
+      <point x="161" y="170" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="78" y="162" type="curve" smooth="yes"/>
+      <point x="78" y="162" type="line" smooth="yes"/>
       <point x="78" y="282"/>
       <point x="157" y="439"/>
       <point x="324" y="439" type="curve" smooth="yes"/>
@@ -44,6 +45,7 @@
       <point x="218" y="-10" type="curve" smooth="yes"/>
       <point x="91" y="-10"/>
       <point x="78" y="109"/>
+      <point x="78" y="162" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

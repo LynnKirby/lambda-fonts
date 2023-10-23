@@ -8,9 +8,6 @@
   <outline>
     <component base="o"/>
     <contour>
-      <point x="220" y="-10" type="move" smooth="yes"/>
-    </contour>
-    <contour>
       <point x="364" y="674" type="line"/>
       <point x="367" y="675"/>
       <point x="375" y="676"/>

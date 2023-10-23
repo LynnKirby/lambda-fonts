@@ -5,13 +5,13 @@
   <outline>
     <component base="uni03FD"/>
     <contour>
-      <point x="269" y="264" type="curve" smooth="yes"/>
+      <point x="269" y="264" type="line"/>
       <point x="237" y="264"/>
       <point x="219" y="286"/>
       <point x="219" y="312" type="curve" smooth="yes"/>
       <point x="219" y="315"/>
       <point x="220" y="318"/>
-      <point x="220" y="322" type="curve" smooth="yes"/>
+      <point x="220" y="322" type="curve"/>
       <point x="226" y="352"/>
       <point x="257" y="380"/>
       <point x="289" y="380" type="curve" smooth="yes"/>
@@ -20,9 +20,10 @@
       <point x="337" y="332" type="curve" smooth="yes"/>
       <point x="337" y="328"/>
       <point x="337" y="325"/>
-      <point x="336" y="322" type="curve" smooth="yes"/>
+      <point x="336" y="322" type="curve"/>
       <point x="331" y="291"/>
       <point x="301" y="264"/>
+      <point x="269" y="264" type="curve"/>
     </contour>
   </outline>
 </glyph>

@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E47" format="2">
-  <advance width="542"/>
-  <outline>
-    <component base="n"/>
-    <component base="dotbelowcomb" xOffset="481" yOffset="3"/>
-  </outline>
+  <outline/>
 </glyph>

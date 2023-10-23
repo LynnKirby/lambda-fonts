@@ -3,8 +3,8 @@
   <anchor x="-99" y="478" name="_above"/>
   <outline>
     <contour>
-      <point x="-109" y="496" type="curve"/>
-      <point x="-60" y="407" type="line" smooth="yes"/>
+      <point x="-109" y="496" type="line"/>
+      <point x="-60" y="407" type="line"/>
       <point x="-57" y="400"/>
       <point x="-56" y="396"/>
       <point x="-56" y="391" type="curve" smooth="yes"/>
@@ -21,6 +21,7 @@
       <point x="-120" y="497" type="curve" smooth="yes"/>
       <point x="-116" y="497"/>
       <point x="-112" y="496"/>
+      <point x="-109" y="496" type="curve"/>
     </contour>
   </outline>
 </glyph>

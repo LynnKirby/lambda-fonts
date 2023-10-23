@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="six.cap" format="2">
-  <advance width="479" height="1077"/>
+  <advance width="479"/>
   <outline>
     <contour>
-      <point x="544" y="631" type="curve"/>
+      <point x="544" y="631" type="line"/>
       <point x="466" y="621"/>
       <point x="373" y="579"/>
       <point x="312" y="519" type="curve" smooth="yes"/>
@@ -30,9 +30,10 @@
       <point x="542" y="659" type="curve"/>
       <point x="545" y="649"/>
       <point x="546" y="642"/>
+      <point x="544" y="631" type="curve"/>
     </contour>
     <contour>
-      <point x="189" y="301" type="curve"/>
+      <point x="189" y="301" type="line"/>
       <point x="181" y="275"/>
       <point x="171" y="216"/>
       <point x="171" y="171" type="curve" smooth="yes"/>
@@ -47,6 +48,7 @@
       <point x="303" y="350" type="curve" smooth="yes"/>
       <point x="276" y="350"/>
       <point x="242" y="340"/>
+      <point x="189" y="301" type="curve"/>
     </contour>
   </outline>
 </glyph>

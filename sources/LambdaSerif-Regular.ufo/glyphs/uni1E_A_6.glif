@@ -5,8 +5,8 @@
   <outline>
     <component base="Acircumflex"/>
     <contour>
-      <point x="167" y="863" type="curve"/>
-      <point x="252" y="796" type="line" smooth="yes"/>
+      <point x="167" y="863" type="line"/>
+      <point x="252" y="796" type="line"/>
       <point x="260" y="789"/>
       <point x="262" y="784"/>
       <point x="262" y="779" type="curve" smooth="yes"/>
@@ -19,6 +19,7 @@
       <point x="114" y="827" type="line"/>
       <point x="127" y="841"/>
       <point x="143" y="854"/>
+      <point x="167" y="863" type="curve"/>
     </contour>
   </outline>
   <lib>

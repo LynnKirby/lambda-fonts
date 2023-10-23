@@ -6,8 +6,8 @@
   <anchor x="-142" y="731" name="aboveMark"/>
   <outline>
     <contour>
-      <point x="-156" y="708" type="curve"/>
-      <point x="-86" y="582" type="line" smooth="yes"/>
+      <point x="-156" y="708" type="line"/>
+      <point x="-86" y="582" type="line"/>
       <point x="-81" y="572"/>
       <point x="-80" y="565"/>
       <point x="-80" y="558" type="curve" smooth="yes"/>
@@ -24,6 +24,7 @@
       <point x="-171" y="710" type="curve" smooth="yes"/>
       <point x="-166" y="710"/>
       <point x="-160" y="709"/>
+      <point x="-156" y="708" type="curve"/>
     </contour>
   </outline>
 </glyph>

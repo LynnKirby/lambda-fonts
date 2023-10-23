@@ -5,7 +5,7 @@
   <outline>
     <component base="uni0430"/>
     <contour>
-      <point x="424" y="674" type="curve" smooth="yes"/>
+      <point x="424" y="674" type="line"/>
       <point x="424" y="653"/>
       <point x="411" y="637"/>
       <point x="395" y="622" type="curve" smooth="yes"/>
@@ -33,7 +33,7 @@
       <point x="333" y="576" type="curve"/>
       <point x="337" y="602"/>
       <point x="348" y="621"/>
-      <point x="357" y="636" type="curve" smooth="yes"/>
+      <point x="357" y="636" type="curve"/>
       <point x="365" y="648"/>
       <point x="370" y="659"/>
       <point x="370" y="671" type="curve" smooth="yes"/>
@@ -45,7 +45,7 @@
       <point x="320" y="692" type="curve" smooth="yes"/>
       <point x="320" y="689"/>
       <point x="321" y="686"/>
-      <point x="322" y="684" type="curve" smooth="yes"/>
+      <point x="322" y="684" type="curve"/>
       <point x="324" y="682"/>
       <point x="329" y="674"/>
       <point x="329" y="667" type="curve" smooth="yes"/>
@@ -60,6 +60,7 @@
       <point x="353" y="730" type="curve" smooth="yes"/>
       <point x="407" y="730"/>
       <point x="424" y="690"/>
+      <point x="424" y="674" type="curve"/>
     </contour>
   </outline>
 </glyph>

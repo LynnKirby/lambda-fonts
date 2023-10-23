@@ -5,7 +5,7 @@
   <outline>
     <component base="Udieresis.alt"/>
     <contour>
-      <point x="297" y="858" type="curve"/>
+      <point x="297" y="858" type="line"/>
       <point x="297" y="867"/>
       <point x="303" y="877"/>
       <point x="310" y="881" type="curve"/>
@@ -24,6 +24,7 @@
       <point x="402" y="761" type="line"/>
       <point x="374" y="794"/>
       <point x="328" y="835"/>
+      <point x="297" y="858" type="curve"/>
     </contour>
   </outline>
 </glyph>

@@ -5,7 +5,7 @@
   <outline>
     <component base="one" xOffset="187"/>
     <contour>
-      <point x="57" y="272" type="curve" smooth="yes"/>
+      <point x="57" y="272" type="line"/>
       <point x="57" y="414"/>
       <point x="128" y="542"/>
       <point x="219" y="620" type="curve"/>
@@ -23,9 +23,10 @@
       <point x="219" y="-77" type="curve"/>
       <point x="60" y="61"/>
       <point x="57" y="237"/>
+      <point x="57" y="272" type="curve"/>
     </contour>
     <contour>
-      <point x="774" y="270" type="curve" smooth="yes"/>
+      <point x="774" y="270" type="line"/>
       <point x="774" y="128"/>
       <point x="703" y="0"/>
       <point x="612" y="-78" type="curve"/>
@@ -43,6 +44,7 @@
       <point x="612" y="619" type="curve"/>
       <point x="771" y="481"/>
       <point x="774" y="304"/>
+      <point x="774" y="270" type="curve"/>
     </contour>
   </outline>
   <lib>

@@ -3,7 +3,7 @@
   <advance width="505"/>
   <outline>
     <contour>
-      <point x="266" y="37" type="curve" smooth="yes"/>
+      <point x="266" y="37" type="line" smooth="yes"/>
       <point x="312" y="37"/>
       <point x="349" y="106"/>
       <point x="349" y="236" type="curve" smooth="yes"/>
@@ -15,9 +15,10 @@
       <point x="158" y="238" type="curve" smooth="yes"/>
       <point x="158" y="107"/>
       <point x="208" y="37"/>
+      <point x="266" y="37" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="255" y="-10" type="curve" smooth="yes"/>
+      <point x="255" y="-10" type="line" smooth="yes"/>
       <point x="115" y="-10"/>
       <point x="27" y="91"/>
       <point x="27" y="220" type="curve" smooth="yes"/>
@@ -56,6 +57,7 @@
       <point x="480" y="250" type="curve" smooth="yes"/>
       <point x="480" y="86"/>
       <point x="395" y="-10"/>
+      <point x="255" y="-10" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

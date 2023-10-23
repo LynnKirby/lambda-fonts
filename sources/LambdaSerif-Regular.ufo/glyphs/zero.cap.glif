@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.cap" format="2">
-  <advance width="502" height="1077"/>
+  <advance width="502"/>
   <outline>
     <contour>
-      <point x="251" y="622" type="curve" smooth="yes"/>
+      <point x="251" y="622" type="line" smooth="yes"/>
       <point x="203" y="622"/>
       <point x="137" y="571"/>
       <point x="137" y="306" type="curve" smooth="yes"/>
@@ -21,9 +21,10 @@
       <point x="299" y="604" type="curve" smooth="yes"/>
       <point x="286" y="616"/>
       <point x="269" y="622"/>
+      <point x="251" y="622" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="247" y="-10" type="curve" smooth="yes"/>
+      <point x="247" y="-10" type="line" smooth="yes"/>
       <point x="205" y="-10"/>
       <point x="168" y="4"/>
       <point x="137" y="35" type="curve" smooth="yes"/>
@@ -41,6 +42,7 @@
       <point x="456" y="327" type="curve" smooth="yes"/>
       <point x="456" y="74"/>
       <point x="330" y="-10"/>
+      <point x="247" y="-10" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

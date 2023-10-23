@@ -20,7 +20,7 @@ In Times anders
       <point x="609" y="333" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="437" y="122" type="curve" smooth="yes"/>
+      <point x="437" y="122" type="line" smooth="yes"/>
       <point x="437" y="524" type="line" smooth="yes"/>
       <point x="437" y="593"/>
       <point x="428" y="614"/>
@@ -91,6 +91,7 @@ In Times anders
       <point x="350" y="31" type="curve"/>
       <point x="420" y="34"/>
       <point x="437" y="39"/>
+      <point x="437" y="122" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

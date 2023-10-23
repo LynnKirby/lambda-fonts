@@ -7,7 +7,7 @@
     <component base="uni0307" xOffset="308" yOffset="-34"/>
     <component base="uni0307" xOffset="559" yOffset="-34"/>
     <contour>
-      <point x="123" y="115" type="curve" smooth="yes"/>
+      <point x="123" y="115" type="line"/>
       <point x="170" y="321" type="line" smooth="yes"/>
       <point x="176" y="349"/>
       <point x="179" y="363"/>
@@ -79,6 +79,7 @@
       <point x="191" y="-10" type="curve" smooth="yes"/>
       <point x="139" y="-10"/>
       <point x="102" y="23"/>
+      <point x="123" y="115" type="curve"/>
     </contour>
   </outline>
 </glyph>

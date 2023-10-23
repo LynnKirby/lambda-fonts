@@ -3,7 +3,7 @@
   <advance width="444"/>
   <outline>
     <contour>
-      <point x="227" y="122" type="curve" smooth="yes"/>
+      <point x="227" y="122" type="line" smooth="yes"/>
       <point x="264" y="312" type="line" smooth="yes"/>
       <point x="274" y="364"/>
       <point x="272" y="375"/>
@@ -41,6 +41,7 @@
       <point x="116" y="31" type="curve"/>
       <point x="184" y="34"/>
       <point x="211" y="39"/>
+      <point x="227" y="122" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

@@ -9,7 +9,7 @@
       <point x="97" y="384"/>
       <point x="87" y="396"/>
       <point x="54" y="400" type="curve" smooth="yes"/>
-      <point x="35" y="402" type="line" smooth="yes"/>
+      <point x="35" y="402" type="line"/>
       <point x="30" y="402"/>
       <point x="27" y="405"/>
       <point x="27" y="410" type="curve" smooth="yes"/>
@@ -26,7 +26,7 @@
       <point x="416" y="410" type="line" smooth="yes"/>
       <point x="416" y="404"/>
       <point x="410" y="402"/>
-      <point x="407" y="402" type="curve" smooth="yes"/>
+      <point x="407" y="402" type="curve"/>
       <point x="390" y="400" type="line" smooth="yes"/>
       <point x="358" y="396"/>
       <point x="361" y="380"/>
@@ -37,7 +37,7 @@
       <point x="580" y="354" type="line"/>
       <point x="597" y="392"/>
       <point x="589" y="399"/>
-      <point x="538" y="402" type="curve" smooth="yes"/>
+      <point x="538" y="402" type="curve"/>
       <point x="533" y="402"/>
       <point x="530" y="406"/>
       <point x="530" y="409" type="curve" smooth="yes"/>
@@ -53,7 +53,7 @@
       <point x="698" y="411" type="line" smooth="yes"/>
       <point x="698" y="406"/>
       <point x="693" y="403"/>
-      <point x="687" y="402" type="curve" smooth="yes"/>
+      <point x="687" y="402" type="curve"/>
       <point x="658" y="399"/>
       <point x="635" y="389"/>
       <point x="619" y="350" type="curve" smooth="yes"/>
@@ -76,7 +76,7 @@
       <point x="172" y="45"/>
       <point x="183" y="32"/>
       <point x="214" y="29" type="curve" smooth="yes"/>
-      <point x="233" y="27" type="line" smooth="yes"/>
+      <point x="233" y="27" type="line"/>
       <point x="238" y="26"/>
       <point x="242" y="24"/>
       <point x="242" y="19" type="curve" smooth="yes"/>
@@ -92,7 +92,7 @@
       <point x="27" y="19" type="line" smooth="yes"/>
       <point x="27" y="24"/>
       <point x="30" y="26"/>
-      <point x="35" y="27" type="curve" smooth="yes"/>
+      <point x="35" y="27" type="curve"/>
       <point x="54" y="29" type="line" smooth="yes"/>
       <point x="86" y="32"/>
       <point x="97" y="45"/>

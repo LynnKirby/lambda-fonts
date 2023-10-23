@@ -87,38 +87,10 @@
       <integer>-110</integer>
     </dict>
   </array>
-  <key>italicAngle</key>
-  <integer>0</integer>
-  <key>openTypeGaspRangeRecords</key>
-  <array>
-    <dict>
-      <key>rangeGaspBehavior</key>
-      <array>
-        <integer>1</integer>
-      </array>
-      <key>rangeMaxPPEM</key>
-      <integer>8</integer>
-    </dict>
-    <dict>
-      <key>rangeGaspBehavior</key>
-      <array>
-        <integer>0</integer>
-      </array>
-      <key>rangeMaxPPEM</key>
-      <integer>17</integer>
-    </dict>
-    <dict>
-      <key>rangeGaspBehavior</key>
-      <array>
-        <integer>0</integer>
-        <integer>1</integer>
-      </array>
-      <key>rangeMaxPPEM</key>
-      <integer>65535</integer>
-    </dict>
-  </array>
   <key>openTypeHeadCreated</key>
-  <string>2023/10/22 23:44:45</string>
+  <string>2023/10/22 00:00:00</string>
+  <key>openTypeHeadFlags</key>
+  <array/>
   <key>openTypeHheaAscender</key>
   <integer>894</integer>
   <key>openTypeHheaDescender</key>
@@ -135,15 +107,38 @@
   <string>Lynn Kirby</string>
   <key>openTypeNameManufacturerURL</key>
   <string>https://github.com/LynnKirby/lambda-fonts</string>
-  <key>openTypeOS2FamilyClass</key>
-  <array>
-    <integer>1</integer>
-    <integer>5</integer>
-  </array>
+  <key>openTypeNamePreferredFamilyName</key>
+  <string>Lambda Serif</string>
+  <key>openTypeNamePreferredSubfamilyName</key>
+  <string>Regular</string>
+  <key>openTypeNameUniqueID</key>
+  <string>Lynn Kirby: Lambda Serif Regular: 2023</string>
+  <key>openTypeNameVersion</key>
+  <string>Version 1.000</string>
   <key>openTypeOS2Selection</key>
   <array>
     <integer>7</integer>
   </array>
+  <key>openTypeOS2StrikeoutPosition</key>
+  <integer>300</integer>
+  <key>openTypeOS2StrikeoutSize</key>
+  <integer>50</integer>
+  <key>openTypeOS2SubscriptXOffset</key>
+  <integer>0</integer>
+  <key>openTypeOS2SubscriptXSize</key>
+  <integer>650</integer>
+  <key>openTypeOS2SubscriptYOffset</key>
+  <integer>75</integer>
+  <key>openTypeOS2SubscriptYSize</key>
+  <integer>600</integer>
+  <key>openTypeOS2SuperscriptXOffset</key>
+  <integer>0</integer>
+  <key>openTypeOS2SuperscriptXSize</key>
+  <integer>650</integer>
+  <key>openTypeOS2SuperscriptYOffset</key>
+  <integer>350</integer>
+  <key>openTypeOS2SuperscriptYSize</key>
+  <integer>600</integer>
   <key>openTypeOS2Type</key>
   <array/>
   <key>openTypeOS2TypoAscender</key>
@@ -152,8 +147,6 @@
   <integer>-246</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>0</integer>
-  <key>openTypeOS2VendorID</key>
-  <string>QUE </string>
   <key>openTypeOS2WeightClass</key>
   <integer>400</integer>
   <key>openTypeOS2WidthClass</key>
@@ -164,8 +157,6 @@
   <integer>330</integer>
   <key>openTypeVheaVertTypoLineGap</key>
   <integer>0</integer>
-  <key>postscriptBlueScale</key>
-  <real>0.0396</real>
   <key>postscriptBlueValues</key>
   <array>
     <integer>-12</integer>
@@ -210,8 +201,6 @@
     <integer>-238</integer>
     <integer>-227</integer>
   </array>
-  <key>postscriptSlantAngle</key>
-  <integer>0</integer>
   <key>postscriptStemSnapH</key>
   <array>
     <integer>36</integer>
@@ -225,8 +214,10 @@
   <integer>-78</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>40</integer>
-  <key>postscriptWeightName</key>
-  <string>Regular</string>
+  <key>styleMapFamilyName</key>
+  <string>Lambda Serif</string>
+  <key>styleMapStyleName</key>
+  <string>regular</string>
   <key>styleName</key>
   <string>Regular</string>
   <key>unitsPerEm</key>

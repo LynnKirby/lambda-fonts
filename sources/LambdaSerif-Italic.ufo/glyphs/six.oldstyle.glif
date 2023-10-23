@@ -2,6 +2,6 @@
 <glyph name="six.oldstyle" format="2">
   <advance width="438"/>
   <outline>
-    <component base="six" xOffset="-7" yOffset="0"/>
+    <component base="six" xOffset="-7"/>
   </outline>
 </glyph>

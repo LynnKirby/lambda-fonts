@@ -7,3 +7,11 @@
 
 # Python
 /.venv/
+__pycache__/
+
+# Fontlab backups
+/sources/*.*.ufo
+
+# pysilfont debris
+/sources/logs/
+/sources/backups/

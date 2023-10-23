@@ -4,7 +4,7 @@
   <anchor x="-128" y="764" name="aboveMark"/>
   <outline>
     <contour>
-      <point x="-113" y="642" type="curve"/>
+      <point x="-113" y="642" type="line"/>
       <point x="-83" y="606"/>
       <point x="-46" y="572"/>
       <point x="-10" y="545" type="curve"/>
@@ -25,6 +25,7 @@
       <point x="-152" y="642" type="curve"/>
       <point x="-138" y="650"/>
       <point x="-128" y="650"/>
+      <point x="-113" y="642" type="curve"/>
     </contour>
   </outline>
 </glyph>

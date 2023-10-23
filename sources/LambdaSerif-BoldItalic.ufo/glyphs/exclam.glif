@@ -5,7 +5,7 @@
   <outline>
     <component base="period" xOffset="22"/>
     <contour>
-      <point x="257" y="658" type="curve" smooth="yes"/>
+      <point x="257" y="658" type="line"/>
       <point x="292" y="658"/>
       <point x="319" y="634"/>
       <point x="308" y="583" type="curve" smooth="yes"/>
@@ -29,6 +29,7 @@
       <point x="173" y="583" type="curve" smooth="yes"/>
       <point x="185" y="639"/>
       <point x="228" y="658"/>
+      <point x="257" y="658" type="curve"/>
     </contour>
   </outline>
 </glyph>

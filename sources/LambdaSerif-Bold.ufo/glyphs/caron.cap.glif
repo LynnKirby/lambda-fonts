@@ -3,7 +3,7 @@
   <anchor x="-180" y="639" name="_above"/>
   <outline>
     <contour>
-      <point x="-319" y="808" type="curve"/>
+      <point x="-319" y="808" type="line"/>
       <point x="-319" y="818"/>
       <point x="-312" y="830"/>
       <point x="-303" y="834" type="curve"/>
@@ -22,6 +22,7 @@
       <point x="-183" y="698" type="line"/>
       <point x="-220" y="735"/>
       <point x="-279" y="782"/>
+      <point x="-319" y="808" type="curve"/>
     </contour>
   </outline>
 </glyph>

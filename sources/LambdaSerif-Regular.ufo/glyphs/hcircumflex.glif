@@ -5,7 +5,7 @@
   <outline>
     <component base="h"/>
     <contour>
-      <point x="339" y="664" type="curve"/>
+      <point x="339" y="664" type="line"/>
       <point x="365" y="615"/>
       <point x="405" y="559"/>
       <point x="437" y="517" type="curve"/>
@@ -26,6 +26,7 @@
       <point x="310" y="664" type="curve"/>
       <point x="320" y="666"/>
       <point x="330" y="667"/>
+      <point x="339" y="664" type="curve"/>
     </contour>
   </outline>
   <lib>

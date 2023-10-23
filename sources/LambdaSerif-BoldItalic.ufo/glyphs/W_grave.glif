@@ -5,7 +5,7 @@
   <outline>
     <component base="uni1EDC" xOffset="76" yOffset="1"/>
     <contour>
-      <point x="671" y="613" type="curve"/>
+      <point x="671" y="613" type="line"/>
       <point x="728" y="216" type="line"/>
       <point x="734" y="174" type="line"/>
       <point x="753" y="210" type="line"/>
@@ -68,6 +68,7 @@
       <point x="613" y="613" type="line"/>
       <point x="613" y="613"/>
       <point x="642" y="607"/>
+      <point x="671" y="613" type="curve"/>
     </contour>
   </outline>
 </glyph>

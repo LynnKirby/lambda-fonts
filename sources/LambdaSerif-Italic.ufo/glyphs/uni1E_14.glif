@@ -6,7 +6,7 @@
     <component base="E"/>
     <component base="uni0304" xOffset="515" yOffset="227"/>
     <contour>
-      <point x="230" y="742" type="curve" smooth="yes"/>
+      <point x="230" y="742" type="line"/>
       <point x="230" y="737"/>
       <point x="227" y="726"/>
       <point x="216" y="726" type="curve" smooth="yes"/>
@@ -15,9 +15,10 @@
       <point x="185" y="736" type="curve" smooth="yes"/>
       <point x="76" y="792" type="line"/>
       <point x="143" y="831" type="line"/>
-      <point x="222" y="757" type="line" smooth="yes"/>
+      <point x="222" y="757" type="line"/>
       <point x="227" y="752"/>
       <point x="230" y="747"/>
+      <point x="230" y="742" type="curve"/>
     </contour>
   </outline>
 </glyph>

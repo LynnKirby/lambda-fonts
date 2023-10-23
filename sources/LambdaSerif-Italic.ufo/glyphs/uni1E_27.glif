@@ -5,7 +5,7 @@
   <outline>
     <component base="h"/>
     <contour>
-      <point x="465" y="572" type="curve" smooth="yes"/>
+      <point x="465" y="572" type="line"/>
       <point x="465" y="597"/>
       <point x="485" y="618"/>
       <point x="510" y="618" type="curve" smooth="yes"/>
@@ -17,9 +17,10 @@
       <point x="510" y="527" type="curve" smooth="yes"/>
       <point x="485" y="527"/>
       <point x="465" y="547"/>
+      <point x="465" y="572" type="curve"/>
     </contour>
     <contour>
-      <point x="328" y="572" type="curve" smooth="yes"/>
+      <point x="328" y="572" type="line"/>
       <point x="328" y="597"/>
       <point x="348" y="618"/>
       <point x="373" y="618" type="curve" smooth="yes"/>
@@ -31,6 +32,7 @@
       <point x="373" y="527" type="curve" smooth="yes"/>
       <point x="348" y="527"/>
       <point x="328" y="547"/>
+      <point x="328" y="572" type="curve"/>
     </contour>
   </outline>
 </glyph>

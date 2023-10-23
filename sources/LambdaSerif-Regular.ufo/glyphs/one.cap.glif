@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.cap" format="2">
-  <advance width="502" height="1078"/>
+  <advance width="502"/>
   <outline>
     <contour>
       <point x="324" y="129" type="line" smooth="yes"/>

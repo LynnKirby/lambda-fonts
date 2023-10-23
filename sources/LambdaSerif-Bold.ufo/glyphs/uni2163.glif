@@ -5,7 +5,7 @@
   <anchor x="347" y="0" name="caret_1"/>
   <outline>
     <contour>
-      <point x="896" y="498" type="curve"/>
+      <point x="896" y="498" type="line"/>
       <point x="683" y="11" type="line" smooth="yes"/>
       <point x="676" y="-4"/>
       <point x="668" y="-12"/>
@@ -95,6 +95,7 @@
       <point x="996" y="568" type="curve"/>
       <point x="952" y="565"/>
       <point x="920" y="558"/>
+      <point x="896" y="498" type="curve"/>
     </contour>
   </outline>
 </glyph>

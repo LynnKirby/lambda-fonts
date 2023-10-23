@@ -5,7 +5,7 @@
   <outline>
     <component base="ohorn"/>
     <contour>
-      <point x="385" y="571" type="curve" smooth="yes"/>
+      <point x="385" y="571" type="line"/>
       <point x="405" y="571"/>
       <point x="420" y="582"/>
       <point x="440" y="628" type="curve"/>
@@ -15,7 +15,7 @@
       <point x="366" y="522" type="curve" smooth="yes"/>
       <point x="346" y="522"/>
       <point x="329" y="536"/>
-      <point x="313" y="551" type="curve" smooth="yes"/>
+      <point x="313" y="551" type="curve"/>
       <point x="298" y="563"/>
       <point x="283" y="575"/>
       <point x="268" y="575" type="curve" smooth="yes"/>
@@ -31,6 +31,7 @@
       <point x="342" y="595" type="curve" smooth="yes"/>
       <point x="355" y="582"/>
       <point x="368" y="571"/>
+      <point x="385" y="571" type="curve"/>
     </contour>
   </outline>
 </glyph>

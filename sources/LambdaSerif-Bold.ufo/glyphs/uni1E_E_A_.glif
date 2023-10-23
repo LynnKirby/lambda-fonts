@@ -5,7 +5,7 @@
   <outline>
     <component base="grave.cap" xOffset="505" yOffset="127"/>
     <contour>
-      <point x="656" y="613" type="curve" smooth="yes"/>
+      <point x="656" y="613" type="line"/>
       <point x="628" y="613"/>
       <point x="614" y="597"/>
       <point x="614" y="569" type="curve" smooth="yes"/>
@@ -81,6 +81,7 @@
       <point x="728" y="686" type="curve" smooth="yes"/>
       <point x="728" y="643"/>
       <point x="700" y="613"/>
+      <point x="656" y="613" type="curve"/>
     </contour>
   </outline>
 </glyph>

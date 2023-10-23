@@ -8,7 +8,7 @@
   <anchor x="410" y="16" name="ogonek"/>
   <outline>
     <contour>
-      <point x="41" y="205" type="curve" smooth="yes"/>
+      <point x="41" y="205" type="line"/>
       <point x="41" y="268"/>
       <point x="60" y="326"/>
       <point x="96" y="369" type="curve" smooth="yes"/>
@@ -26,9 +26,10 @@
       <point x="251" y="-10" type="curve" smooth="yes"/>
       <point x="109" y="-10"/>
       <point x="41" y="103"/>
+      <point x="41" y="205" type="curve"/>
     </contour>
     <contour>
-      <point x="377" y="196" type="curve"/>
+      <point x="377" y="196" type="line"/>
       <point x="129" y="196" type="line"/>
       <point x="137" y="120"/>
       <point x="174" y="25"/>
@@ -38,6 +39,7 @@
       <point x="377" y="182" type="curve" smooth="yes"/>
       <point x="377" y="187"/>
       <point x="377" y="191"/>
+      <point x="377" y="196" type="curve"/>
     </contour>
     <contour>
       <point x="374" y="235" type="line"/>

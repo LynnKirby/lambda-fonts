@@ -77,7 +77,7 @@
       <point x="449" y="646" type="line"/>
     </contour>
     <contour>
-      <point x="201" y="724" type="curve" smooth="yes"/>
+      <point x="201" y="724" type="line" smooth="yes"/>
       <point x="221" y="724"/>
       <point x="238" y="706"/>
       <point x="234" y="686" type="curve" smooth="yes"/>
@@ -97,6 +97,7 @@
       <point x="169" y="707" type="line"/>
       <point x="176" y="717"/>
       <point x="190" y="724"/>
+      <point x="201" y="724" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.cap.fitted" format="2">
-  <advance width="581" height="1078"/>
+  <advance width="581"/>
   <outline>
     <component base="four.cap" xOffset="9"/>
   </outline>

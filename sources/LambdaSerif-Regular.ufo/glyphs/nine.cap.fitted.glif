@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nine.cap.fitted" format="2">
-  <advance width="508" height="1077"/>
+  <advance width="508"/>
   <outline>
     <component base="nine.cap" xOffset="-6"/>
   </outline>

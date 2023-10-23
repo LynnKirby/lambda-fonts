@@ -36,12 +36,19 @@ serif-bolditalic:
 # Developer tools
 #
 
-.PHONY: normalize-ufos
+.PHONY: normalize fix-fontlab
 
-normalize-ufos-cmd = $(PYTHON) scripts/normalize-ufo.py --log-dir _build/pysilfont-logs
+normalize-ufos-cmd = $(PYTHON) scripts/normalize-ufos.py
+fix-fontlab-cmd = $(PYTHON) scripts/fix-fontlab.py
 
-normalize-ufos:
+normalize:
 	$(normalize-ufos-cmd) sources/LambdaSerif-Regular.ufo
 	$(normalize-ufos-cmd) sources/LambdaSerif-Bold.ufo
 	$(normalize-ufos-cmd) sources/LambdaSerif-Italic.ufo
 	$(normalize-ufos-cmd) sources/LambdaSerif-BoldItalic.ufo
+
+fix-fontlab:
+	$(fix-fontlab-cmd) sources/LambdaSerif-Regular.ufo
+	$(fix-fontlab-cmd) sources/LambdaSerif-Bold.ufo
+	$(fix-fontlab-cmd) sources/LambdaSerif-Italic.ufo
+	$(fix-fontlab-cmd) sources/LambdaSerif-BoldItalic.ufo
