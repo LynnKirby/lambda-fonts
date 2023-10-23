@@ -1208,12 +1208,14 @@ feature case {
     sub nine by nine.cap;
 } case;
 
-# TODO: Figure out why the fea parser doesn't accept the multiple sub rules.
+# HACK: Some lookup blocks are split into _1 (single sub) and _2 (multi sub)
+# pairs because of a bug in psfmakefea.
+# See: https://github.com/silnrsi/pysilfont/issues/86
 lookup smcp_smallcap_i {
     sub i by i.sc;
 } smcp_smallcap_i;
 
-lookup smcp_smallcap {
+lookup smcp_smallcap_1 {
     sub ograve by ograve.sc;
     sub oacute by oacute.sc;
     sub ocircumflex by ocircumflex.sc;
@@ -1311,21 +1313,24 @@ lookup smcp_smallcap {
     sub s by s.sc;
     sub x by x.sc;
     sub f.short by f.sc;
-    # sub amacron by a.sc uni0304;
-    # sub emacron by e.sc uni0304;
-    # sub imacron by i.sc uni0304;
-    # sub omacron by o.sc uni0304;
-    # sub umacron by u.sc uni0304;
-    # sub uni1E2B by h.sc uni032E;
     sub ijacute by ijacute.sc;
     sub i_j by ij.sc;
-} smcp_smallcap;
+} smcp_smallcap_1;
+
+lookup smcp_smallcap_2 {
+    sub amacron by a.sc uni0304;
+    sub emacron by e.sc uni0304;
+    sub imacron by i.sc uni0304;
+    sub omacron by o.sc uni0304;
+    sub umacron by u.sc uni0304;
+    sub uni1E2B by h.sc uni032E;
+} smcp_smallcap_2;
 
 lookup smcp_smallcap_idot {
     sub i by idotaccent.sc;
 } smcp_smallcap_idot;
 
-lookup c2sc_smallcap_fromcaps {
+lookup c2sc_smallcap_fromcaps_1 {
     sub parenleft by parenleft.sc;
     sub parenright by parenright.sc;
     sub A by a.sc;
@@ -1434,47 +1439,59 @@ lookup c2sc_smallcap_fromcaps {
     sub Odieresis by odieresis.sc;
     sub Udieresis by udieresis.sc;
     sub uni1E9E by germandbls.sc;
-    #   sub Amacron by a.sc uni0304;
-    #   sub Emacron by e.sc uni0304;
-    #   sub Imacron by i.sc uni0304;
-    #   sub Omacron by o.sc uni0304;
-    #   sub Umacron by u.sc uni0304;
     sub H by h.sc;
-    #   sub uni1E2A by h.sc uni032E;
     sub IJacute by ijacute.sc;
     sub I_J by ij.sc;
-} c2sc_smallcap_fromcaps;
+} c2sc_smallcap_fromcaps_1;
+
+lookup c2sc_smallcap_fromcaps_2 {
+    sub Amacron by a.sc uni0304;
+    sub Emacron by e.sc uni0304;
+    sub Imacron by i.sc uni0304;
+    sub Omacron by o.sc uni0304;
+    sub Umacron by u.sc uni0304;
+    sub uni1E2A by h.sc uni032E;
+} c2sc_smallcap_fromcaps_2;
 
 feature smcp {
     script DFLT;
     lookup smcp_smallcap_i;
-    lookup smcp_smallcap;
+    lookup smcp_smallcap_1;
+    lookup smcp_smallcap_2;
     script cyrl;
     lookup smcp_smallcap_i;
-    lookup smcp_smallcap;
+    lookup smcp_smallcap_1;
+    lookup smcp_smallcap_2;
     language SRB;
     language MKD;
     script grek;
     lookup smcp_smallcap_i;
-    lookup smcp_smallcap;
+    lookup smcp_smallcap_1;
+    lookup smcp_smallcap_2;
     script latn;
     language dflt;
     lookup smcp_smallcap_i;
-    lookup smcp_smallcap;
+    lookup smcp_smallcap_1;
+    lookup smcp_smallcap_2;
     language AZE exclude_dflt;
-    lookup smcp_smallcap;
+    lookup smcp_smallcap_1;
+    lookup smcp_smallcap_2;
     lookup smcp_smallcap_idot;
     language KAZ exclude_dflt;
-    lookup smcp_smallcap;
+    lookup smcp_smallcap_1;
+    lookup smcp_smallcap_2;
     lookup smcp_smallcap_idot;
     language CRT exclude_dflt;
-    lookup smcp_smallcap;
+    lookup smcp_smallcap_1;
+    lookup smcp_smallcap_2;
     lookup smcp_smallcap_idot;
     language TAT exclude_dflt;
-    lookup smcp_smallcap;
+    lookup smcp_smallcap_1;
+    lookup smcp_smallcap_2;
     lookup smcp_smallcap_idot;
     language TRK exclude_dflt;
-    lookup smcp_smallcap;
+    lookup smcp_smallcap_1;
+    lookup smcp_smallcap_2;
     lookup smcp_smallcap_idot;
     language FIN;
     language ISM;
@@ -1488,7 +1505,8 @@ feature smcp {
 } smcp;
 
 feature c2sc {
-    lookup c2sc_smallcap_fromcaps;
+    lookup c2sc_smallcap_fromcaps_1;
+    lookup c2sc_smallcap_fromcaps_2;
 } c2sc;
 
 feature hlig {
