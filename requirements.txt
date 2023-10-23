@@ -1,0 +1,5 @@
+# SPDX-FileCopyrightText: none
+#
+# SPDX-License-Identifier: 0BSD
+
+fontmake >= 3.7.1, < 4
