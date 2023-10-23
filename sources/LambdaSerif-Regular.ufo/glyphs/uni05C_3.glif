@@ -1,35 +1,35 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni05C3" format="2">
   <advance width="352"/>
   <unicode hex="05C3"/>
   <outline>
     <contour>
-      <point x="264.0" y="425.0" type="curve"/>
-      <point x="206.0" y="401.0"/>
-      <point x="192.0" y="378.0"/>
-      <point x="176.0" y="336.0" type="curve"/>
-      <point x="150.0" y="405.0"/>
-      <point x="144.0" y="403.0"/>
-      <point x="88.0" y="425.0" type="curve"/>
-      <point x="134.0" y="443.0"/>
-      <point x="153.0" y="454.0"/>
-      <point x="176.0" y="513.0" type="curve"/>
-      <point x="202.0" y="446.0"/>
-      <point x="215.0" y="445.0"/>
+      <point x="264" y="425" type="curve"/>
+      <point x="206" y="401"/>
+      <point x="192" y="378"/>
+      <point x="176" y="336" type="curve"/>
+      <point x="150" y="405"/>
+      <point x="144" y="403"/>
+      <point x="88" y="425" type="curve"/>
+      <point x="134" y="443"/>
+      <point x="153" y="454"/>
+      <point x="176" y="513" type="curve"/>
+      <point x="202" y="446"/>
+      <point x="215" y="445"/>
     </contour>
     <contour>
-      <point x="264.0" y="84.0" type="curve"/>
-      <point x="216.0" y="64.0"/>
-      <point x="202.0" y="64.0"/>
-      <point x="176.0" y="-3.0" type="curve"/>
-      <point x="152.0" y="60.0"/>
-      <point x="130.0" y="68.0"/>
-      <point x="88.0" y="84.0" type="curve"/>
-      <point x="152.0" y="109.0"/>
-      <point x="167.0" y="151.0"/>
-      <point x="176.0" y="173.0" type="curve"/>
-      <point x="193.0" y="129.0"/>
-      <point x="208.0" y="107.0"/>
+      <point x="264" y="84" type="curve"/>
+      <point x="216" y="64"/>
+      <point x="202" y="64"/>
+      <point x="176" y="-3" type="curve"/>
+      <point x="152" y="60"/>
+      <point x="130" y="68"/>
+      <point x="88" y="84" type="curve"/>
+      <point x="152" y="109"/>
+      <point x="167" y="151"/>
+      <point x="176" y="173" type="curve"/>
+      <point x="193" y="129"/>
+      <point x="208" y="107"/>
     </contour>
   </outline>
 </glyph>

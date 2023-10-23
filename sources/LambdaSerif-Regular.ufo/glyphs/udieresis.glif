@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udieresis" format="2">
   <advance width="531"/>
   <unicode hex="00FC"/>
-  <anchor x="255.0" y="834.0" name="above"/>
+  <anchor x="255" y="834" name="above"/>
   <outline>
     <component base="u"/>
-    <component base="uni0308" xOffset="464.0" yOffset="2.0"/>
+    <component base="uni0308" xOffset="464" yOffset="2"/>
   </outline>
   <lib>
     <dict>

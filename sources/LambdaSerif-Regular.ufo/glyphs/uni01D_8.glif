@@ -1,29 +1,29 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01D8" format="2">
   <advance width="531"/>
   <unicode hex="01D8"/>
   <outline>
-    <contour>
-      <point x="313.4" y="747.2" type="line"/>
-      <point x="315.8" y="748.1"/>
-      <point x="320.6" y="749.0"/>
-      <point x="324.6" y="749.0" type="curve" smooth="yes"/>
-      <point x="329.7" y="749.0"/>
-      <point x="350.2" y="748.1"/>
-      <point x="368.6" y="728.3" type="curve"/>
-      <point x="371.0" y="718.4" type="line"/>
-      <point x="279.0" y="620.3" type="line" smooth="yes"/>
-      <point x="267.0" y="606.8"/>
-      <point x="260.6" y="603.2"/>
-      <point x="255.0" y="603.2" type="curve" smooth="yes"/>
-      <point x="249.4" y="603.2"/>
-      <point x="243.8" y="608.6"/>
-      <point x="243.8" y="614.9" type="curve" smooth="yes"/>
-      <point x="243.8" y="625.0"/>
-      <point x="246.5" y="628.6"/>
-      <point x="253.0" y="640.1" type="curve" smooth="yes"/>
-    </contour>
     <component base="udieresis"/>
+    <contour>
+      <point x="313" y="747" type="line"/>
+      <point x="316" y="748"/>
+      <point x="321" y="749"/>
+      <point x="325" y="749" type="curve" smooth="yes"/>
+      <point x="330" y="749"/>
+      <point x="350" y="748"/>
+      <point x="369" y="728" type="curve"/>
+      <point x="371" y="718" type="line"/>
+      <point x="279" y="620" type="line" smooth="yes"/>
+      <point x="267" y="607"/>
+      <point x="261" y="603"/>
+      <point x="255" y="603" type="curve" smooth="yes"/>
+      <point x="249" y="603"/>
+      <point x="244" y="609"/>
+      <point x="244" y="615" type="curve" smooth="yes"/>
+      <point x="244" y="625"/>
+      <point x="246" y="629"/>
+      <point x="253" y="640" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>

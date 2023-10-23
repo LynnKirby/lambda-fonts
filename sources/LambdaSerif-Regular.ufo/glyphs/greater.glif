@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="2">
   <advance width="550"/>
   <unicode hex="003E"/>
   <outline>
     <contour>
-      <point x="412.0" y="236.0" type="line"/>
-      <point x="95.0" y="352.0" type="line"/>
-      <point x="82.0" y="366.0"/>
-      <point x="81.0" y="396.0"/>
-      <point x="95.0" y="402.0" type="curve"/>
-      <point x="485.0" y="260.0" type="line"/>
-      <point x="494.3" y="245.3"/>
-      <point x="494.3" y="229.3"/>
-      <point x="485.0" y="212.0" type="curve"/>
-      <point x="95.0" y="71.0" type="line"/>
-      <point x="81.0" y="77.0"/>
-      <point x="82.0" y="107.0"/>
-      <point x="95.0" y="121.0" type="curve"/>
+      <point x="412" y="236" type="line"/>
+      <point x="95" y="352" type="line"/>
+      <point x="82" y="366"/>
+      <point x="81" y="396"/>
+      <point x="95" y="402" type="curve"/>
+      <point x="485" y="260" type="line"/>
+      <point x="494" y="245"/>
+      <point x="494" y="229"/>
+      <point x="485" y="212" type="curve"/>
+      <point x="95" y="71" type="line"/>
+      <point x="81" y="77"/>
+      <point x="82" y="107"/>
+      <point x="95" y="121" type="curve"/>
     </contour>
   </outline>
   <lib>

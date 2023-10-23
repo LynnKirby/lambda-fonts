@@ -1,30 +1,30 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresistonos" format="2">
   <advance width="368"/>
   <unicode hex="0385"/>
   <outline>
+    <component base="uni0308" xOffset="409"/>
     <contour>
-      <point x="379.0" y="784.0" type="curve" smooth="yes"/>
-      <point x="399.0" y="784.0"/>
-      <point x="421.0" y="769.0"/>
-      <point x="421.0" y="749.0" type="curve" smooth="yes"/>
-      <point x="421.0" y="744.0"/>
-      <point x="419.0" y="736.0"/>
-      <point x="415.0" y="731.0" type="curve" smooth="yes"/>
-      <point x="323.0" y="609.0" type="line" smooth="yes"/>
-      <point x="320.0" y="605.0"/>
-      <point x="315.0" y="601.0"/>
-      <point x="311.0" y="601.0" type="curve" smooth="yes"/>
-      <point x="303.0" y="601.0"/>
-      <point x="297.0" y="607.0"/>
-      <point x="297.0" y="614.0" type="curve" smooth="yes"/>
-      <point x="297.0" y="617.0"/>
-      <point x="298.0" y="621.0"/>
-      <point x="299.0" y="624.0" type="curve" smooth="yes"/>
-      <point x="351.0" y="767.0" type="line" smooth="yes"/>
-      <point x="355.0" y="778.0"/>
-      <point x="366.0" y="784.0"/>
+      <point x="379" y="784" type="curve" smooth="yes"/>
+      <point x="399" y="784"/>
+      <point x="421" y="769"/>
+      <point x="421" y="749" type="curve" smooth="yes"/>
+      <point x="421" y="744"/>
+      <point x="419" y="736"/>
+      <point x="415" y="731" type="curve" smooth="yes"/>
+      <point x="323" y="609" type="line" smooth="yes"/>
+      <point x="320" y="605"/>
+      <point x="315" y="601"/>
+      <point x="311" y="601" type="curve" smooth="yes"/>
+      <point x="303" y="601"/>
+      <point x="297" y="607"/>
+      <point x="297" y="614" type="curve" smooth="yes"/>
+      <point x="297" y="617"/>
+      <point x="298" y="621"/>
+      <point x="299" y="624" type="curve" smooth="yes"/>
+      <point x="351" y="767" type="line" smooth="yes"/>
+      <point x="355" y="778"/>
+      <point x="366" y="784"/>
     </contour>
-    <component base="uni0308" xOffset="409.0"/>
   </outline>
 </glyph>

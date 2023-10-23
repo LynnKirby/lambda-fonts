@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut" format="2">
   <advance width="350"/>
   <unicode hex="02DD"/>
@@ -6,7 +6,7 @@
 Ende{Spacing modifying letters}
 </note>
   <outline>
-    <component base="uni030B" xOffset="354.0"/>
+    <component base="uni030B" xOffset="354"/>
   </outline>
   <lib>
     <dict>

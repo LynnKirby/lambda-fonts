@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="atilde.sc" format="2">
   <advance width="519"/>
   <outline>
-    <component base="tildecomb" xOffset="394.0" yOffset="-47.0"/>
+    <component base="tildecomb" xOffset="394" yOffset="-47"/>
     <component base="a.sc"/>
   </outline>
 </glyph>

@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EA8" format="2">
   <advance width="695"/>
   <unicode hex="1EA8"/>
   <outline>
     <component base="Acircumflex"/>
-    <component base="hookabovecomb.cap" xOffset="686.0" yOffset="90.0"/>
+    <component base="hookabovecomb.cap" xOffset="686" yOffset="90"/>
   </outline>
   <lib>
     <dict>

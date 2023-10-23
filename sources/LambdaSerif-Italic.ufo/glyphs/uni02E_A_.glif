@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02EA" format="2">
   <advance width="365"/>
   <unicode hex="02EA"/>
   <outline>
     <contour>
-      <point x="65.1" y="74.0" type="line"/>
-      <point x="124.9" y="368.0" type="line"/>
-      <point x="175.9" y="368.0" type="line"/>
-      <point x="125.2" y="119.0" type="line"/>
-      <point x="339.3" y="119.0" type="line"/>
-      <point x="330.1" y="74.0" type="line"/>
+      <point x="65" y="74" type="line"/>
+      <point x="125" y="368" type="line"/>
+      <point x="176" y="368" type="line"/>
+      <point x="125" y="119" type="line"/>
+      <point x="339" y="119" type="line"/>
+      <point x="330" y="74" type="line"/>
     </contour>
   </outline>
 </glyph>

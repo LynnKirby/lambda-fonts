@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron.sc" format="2">
   <advance width="529"/>
   <outline>
-    <component base="uni030C" xOffset="476.0" yOffset="-25.0"/>
+    <component base="uni030C" xOffset="476" yOffset="-25"/>
     <component base="t.sc"/>
   </outline>
   <lib>

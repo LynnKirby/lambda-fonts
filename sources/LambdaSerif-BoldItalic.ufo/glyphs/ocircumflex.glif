@@ -1,31 +1,31 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflex" format="2">
   <advance width="479"/>
   <unicode hex="00F4"/>
-  <anchor x="370.0" y="44.0" name="ogonek"/>
-  <anchor x="229.4" y="-3.0" name="cedilla"/>
-  <anchor x="185.2" y="-107.0" name="below"/>
+  <anchor x="185" y="-107" name="below"/>
+  <anchor x="229" y="-3" name="cedilla"/>
+  <anchor x="370" y="44" name="ogonek"/>
   <outline>
-    <contour>
-      <point x="220.0" y="-10.0" type="move" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="379.8" y="663.0" type="line"/>
-      <point x="402.9" y="614.0"/>
-      <point x="434.7" y="570.0"/>
-      <point x="465.9" y="529.0" type="curve"/>
-      <point x="438.2" y="510.0" type="line"/>
-      <point x="398.9" y="536.0"/>
-      <point x="372.7" y="556.0"/>
-      <point x="342.9" y="593.0" type="curve"/>
-      <point x="299.4" y="554.0"/>
-      <point x="268.9" y="536.0"/>
-      <point x="225.2" y="510.0" type="curve"/>
-      <point x="202.9" y="529.0" type="line"/>
-      <point x="244.7" y="570.0"/>
-      <point x="291.1" y="615.0"/>
-      <point x="327.8" y="663.0" type="curve"/>
-    </contour>
     <component base="o"/>
+    <contour>
+      <point x="220" y="-10" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="380" y="663" type="line"/>
+      <point x="403" y="614"/>
+      <point x="435" y="570"/>
+      <point x="466" y="529" type="curve"/>
+      <point x="438" y="510" type="line"/>
+      <point x="399" y="536"/>
+      <point x="373" y="556"/>
+      <point x="343" y="593" type="curve"/>
+      <point x="299" y="554"/>
+      <point x="269" y="536"/>
+      <point x="225" y="510" type="curve"/>
+      <point x="203" y="529" type="line"/>
+      <point x="245" y="570"/>
+      <point x="291" y="615"/>
+      <point x="328" y="663" type="curve"/>
+    </contour>
   </outline>
 </glyph>

@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nine.cap.fitted" format="2">
-  <advance height="1076" width="535"/>
+  <advance width="535" height="1076"/>
   <outline>
-    <component base="nine.cap" xOffset="-6.0"/>
+    <component base="nine.cap" xOffset="-6"/>
   </outline>
 </glyph>

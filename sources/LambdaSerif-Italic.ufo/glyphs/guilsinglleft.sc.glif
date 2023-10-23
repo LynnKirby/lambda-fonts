@@ -1,23 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft.sc" format="2">
   <advance width="355"/>
   <outline>
     <contour>
-      <point x="385.0" y="503.0" type="curve"/>
-      <point x="375.0" y="449.0" type="line"/>
-      <point x="315.0" y="383.0"/>
-      <point x="259.0" y="329.0"/>
-      <point x="205.0" y="289.0" type="curve"/>
-      <point x="242.0" y="252.0"/>
-      <point x="278.0" y="199.0"/>
-      <point x="312.0" y="128.0" type="curve"/>
-      <point x="302.0" y="75.0" type="line"/>
-      <point x="240.0" y="168.0"/>
-      <point x="179.0" y="233.0"/>
-      <point x="121.0" y="270.0" type="curve"/>
-      <point x="128.0" y="308.0" type="line"/>
-      <point x="208.0" y="357.0"/>
-      <point x="294.0" y="422.0"/>
+      <point x="385" y="503" type="curve"/>
+      <point x="375" y="449" type="line"/>
+      <point x="315" y="383"/>
+      <point x="259" y="329"/>
+      <point x="205" y="289" type="curve"/>
+      <point x="242" y="252"/>
+      <point x="278" y="199"/>
+      <point x="312" y="128" type="curve"/>
+      <point x="302" y="75" type="line"/>
+      <point x="240" y="168"/>
+      <point x="179" y="233"/>
+      <point x="121" y="270" type="curve"/>
+      <point x="128" y="308" type="line"/>
+      <point x="208" y="357"/>
+      <point x="294" y="422"/>
     </contour>
   </outline>
 </glyph>

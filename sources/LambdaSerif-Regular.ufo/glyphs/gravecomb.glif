@@ -1,29 +1,29 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
-  <anchor x="-142.0" y="731.0" name="aboveMark"/>
-  <anchor x="-142.0" y="526.0" name="_aboveMark"/>
-  <anchor x="-142.0" y="683.0" name="_above"/>
+  <anchor x="-142" y="683" name="_above"/>
+  <anchor x="-142" y="526" name="_aboveMark"/>
+  <anchor x="-142" y="731" name="aboveMark"/>
   <outline>
     <contour>
-      <point x="-156.0" y="708.0" type="curve"/>
-      <point x="-86.0" y="582.0" type="line" smooth="yes"/>
-      <point x="-81.0" y="572.0"/>
-      <point x="-80.0" y="565.0"/>
-      <point x="-80.0" y="558.0" type="curve" smooth="yes"/>
-      <point x="-80.0" y="553.0"/>
-      <point x="-87.0" y="547.0"/>
-      <point x="-95.0" y="547.0" type="curve" smooth="yes"/>
-      <point x="-101.0" y="547.0"/>
-      <point x="-108.0" y="552.0"/>
-      <point x="-124.0" y="567.0" type="curve" smooth="yes"/>
-      <point x="-238.0" y="676.0" type="line"/>
-      <point x="-236.0" y="687.0" type="line"/>
-      <point x="-228.0" y="693.0"/>
-      <point x="-205.0" y="710.0"/>
-      <point x="-171.0" y="710.0" type="curve" smooth="yes"/>
-      <point x="-166.0" y="710.0"/>
-      <point x="-160.0" y="709.0"/>
+      <point x="-156" y="708" type="curve"/>
+      <point x="-86" y="582" type="line" smooth="yes"/>
+      <point x="-81" y="572"/>
+      <point x="-80" y="565"/>
+      <point x="-80" y="558" type="curve" smooth="yes"/>
+      <point x="-80" y="553"/>
+      <point x="-87" y="547"/>
+      <point x="-95" y="547" type="curve" smooth="yes"/>
+      <point x="-101" y="547"/>
+      <point x="-108" y="552"/>
+      <point x="-124" y="567" type="curve" smooth="yes"/>
+      <point x="-238" y="676" type="line"/>
+      <point x="-236" y="687" type="line"/>
+      <point x="-228" y="693"/>
+      <point x="-205" y="710"/>
+      <point x="-171" y="710" type="curve" smooth="yes"/>
+      <point x="-166" y="710"/>
+      <point x="-160" y="709"/>
     </contour>
   </outline>
 </glyph>

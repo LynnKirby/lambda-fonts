@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0330" format="2">
   <unicode hex="0330"/>
-  <anchor x="-227.2" y="-70.0" name="_below"/>
+  <anchor x="-227" y="-70" name="_below"/>
   <outline>
-    <component base="tildecomb" xOffset="-197.6" yOffset="-696.0"/>
+    <component base="tildecomb" xOffset="-198" yOffset="-696"/>
   </outline>
 </glyph>

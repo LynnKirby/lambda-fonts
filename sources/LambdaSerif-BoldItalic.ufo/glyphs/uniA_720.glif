@@ -1,21 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA720" format="2">
   <advance width="639"/>
   <unicode hex="A720"/>
   <outline>
     <contour>
-      <point x="175.0" y="695.0" type="line"/>
-      <point x="707.0" y="571.0" type="line"/>
-      <point x="678.0" y="495.0" type="line"/>
-      <point x="437.0" y="551.0" type="line"/>
-      <point x="418.0" y="467.0" type="line"/>
-      <point x="344.0" y="467.0" type="line"/>
-      <point x="365.0" y="568.0" type="line"/>
-      <point x="229.0" y="600.0" type="line"/>
-      <point x="186.0" y="397.0" type="line"/>
-      <point x="111.0" y="397.0" type="line"/>
-      <point x="158.0" y="617.0" type="line"/>
-      <point x="164.0" y="644.0" type="line"/>
+      <point x="175" y="695" type="line"/>
+      <point x="707" y="571" type="line"/>
+      <point x="678" y="495" type="line"/>
+      <point x="437" y="551" type="line"/>
+      <point x="418" y="467" type="line"/>
+      <point x="344" y="467" type="line"/>
+      <point x="365" y="568" type="line"/>
+      <point x="229" y="600" type="line"/>
+      <point x="186" y="397" type="line"/>
+      <point x="111" y="397" type="line"/>
+      <point x="158" y="617" type="line"/>
+      <point x="164" y="644" type="line"/>
     </contour>
   </outline>
 </glyph>

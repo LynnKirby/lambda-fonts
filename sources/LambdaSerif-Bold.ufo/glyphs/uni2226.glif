@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2226" format="2">
   <advance width="359"/>
   <unicode hex="2226"/>
   <outline>
-    <contour>
-      <point x="54.0" y="105.0" type="line"/>
-      <point x="20.0" y="139.0" type="line"/>
-      <point x="305.0" y="428.0" type="line"/>
-      <point x="339.0" y="393.0" type="line"/>
-    </contour>
     <component base="uni2225"/>
+    <contour>
+      <point x="54" y="105" type="line"/>
+      <point x="20" y="139" type="line"/>
+      <point x="305" y="428" type="line"/>
+      <point x="339" y="393" type="line"/>
+    </contour>
   </outline>
 </glyph>

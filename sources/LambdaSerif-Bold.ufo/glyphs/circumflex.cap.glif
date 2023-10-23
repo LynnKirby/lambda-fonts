@@ -1,27 +1,27 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex.cap" format="2">
-  <anchor x="-133.0" y="684.0" name="_above"/>
+  <anchor x="-133" y="684" name="_above"/>
   <outline>
     <contour>
-      <point x="8.0" y="724.0" type="curve"/>
-      <point x="8.0" y="714.0"/>
-      <point x="1.1" y="702.2"/>
-      <point x="-8.0" y="698.0" type="curve"/>
-      <point x="-47.0" y="710.0"/>
-      <point x="-105.0" y="733.0"/>
-      <point x="-132.0" y="754.0" type="curve"/>
-      <point x="-162.0" y="732.0"/>
-      <point x="-218.0" y="709.0"/>
-      <point x="-255.0" y="698.0" type="curve"/>
-      <point x="-264.1" y="702.2"/>
-      <point x="-269.0" y="715.0"/>
-      <point x="-269.0" y="725.0" type="curve"/>
-      <point x="-227.0" y="752.0"/>
-      <point x="-176.8" y="794.2"/>
-      <point x="-142.0" y="829.0" type="curve"/>
-      <point x="-128.0" y="834.0" type="line"/>
-      <point x="-91.1" y="797.1"/>
-      <point x="-32.0" y="750.0"/>
+      <point x="8" y="724" type="curve"/>
+      <point x="8" y="714"/>
+      <point x="1" y="702"/>
+      <point x="-8" y="698" type="curve"/>
+      <point x="-47" y="710"/>
+      <point x="-105" y="733"/>
+      <point x="-132" y="754" type="curve"/>
+      <point x="-162" y="732"/>
+      <point x="-218" y="709"/>
+      <point x="-255" y="698" type="curve"/>
+      <point x="-264" y="702"/>
+      <point x="-269" y="715"/>
+      <point x="-269" y="725" type="curve"/>
+      <point x="-227" y="752"/>
+      <point x="-177" y="794"/>
+      <point x="-142" y="829" type="curve"/>
+      <point x="-128" y="834" type="line"/>
+      <point x="-91" y="797"/>
+      <point x="-32" y="750"/>
     </contour>
   </outline>
 </glyph>

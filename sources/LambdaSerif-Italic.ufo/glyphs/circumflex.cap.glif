@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex.cap" format="2">
   <outline>
     <contour>
-      <point x="37.0" y="639.0" type="line"/>
-      <point x="58.0" y="603.0"/>
-      <point x="85.0" y="572.0"/>
-      <point x="116.0" y="545.0" type="curve"/>
-      <point x="95.0" y="524.0" type="line"/>
-      <point x="60.0" y="542.0"/>
-      <point x="30.0" y="561.0"/>
-      <point x="3.0" y="586.0" type="curve"/>
-      <point x="-40.0" y="559.0"/>
-      <point x="-76.0" y="541.0"/>
-      <point x="-118.0" y="524.0" type="curve"/>
-      <point x="-127.0" y="545.0" type="line"/>
-      <point x="-84.0" y="573.0"/>
-      <point x="-44.0" y="605.0"/>
-      <point x="-6.0" y="639.0" type="curve"/>
+      <point x="37" y="639" type="line"/>
+      <point x="58" y="603"/>
+      <point x="85" y="572"/>
+      <point x="116" y="545" type="curve"/>
+      <point x="95" y="524" type="line"/>
+      <point x="60" y="542"/>
+      <point x="30" y="561"/>
+      <point x="3" y="586" type="curve"/>
+      <point x="-40" y="559"/>
+      <point x="-76" y="541"/>
+      <point x="-118" y="524" type="curve"/>
+      <point x="-127" y="545" type="line"/>
+      <point x="-84" y="573"/>
+      <point x="-44" y="605"/>
+      <point x="-6" y="639" type="curve"/>
     </contour>
   </outline>
 </glyph>

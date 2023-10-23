@@ -1,50 +1,50 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2487" format="2">
   <advance width="1235"/>
   <unicode hex="2487"/>
   <outline>
+    <component base="zero" xOffset="603"/>
+    <component base="two" xOffset="198"/>
     <contour>
-      <point x="68.7" y="271.8" type="curve" smooth="yes"/>
-      <point x="68.7" y="414.1"/>
-      <point x="139.8" y="541.9"/>
-      <point x="230.8" y="619.9" type="curve"/>
-      <point x="239.5" y="619.3"/>
-      <point x="244.3" y="613.9"/>
-      <point x="246.9" y="606.1" type="curve"/>
-      <point x="222.4" y="578.6"/>
-      <point x="132.2" y="473.0"/>
-      <point x="132.2" y="271.8" type="curve" smooth="yes"/>
-      <point x="132.2" y="70.6"/>
-      <point x="221.7" y="-35.0"/>
-      <point x="246.9" y="-64.1" type="curve"/>
-      <point x="244.6" y="-70.2"/>
-      <point x="238.5" y="-75.6"/>
-      <point x="230.8" y="-77.1" type="curve"/>
-      <point x="71.7" y="60.6"/>
-      <point x="68.7" y="237.4"/>
+      <point x="69" y="272" type="curve" smooth="yes"/>
+      <point x="69" y="414"/>
+      <point x="140" y="542"/>
+      <point x="231" y="620" type="curve"/>
+      <point x="240" y="619"/>
+      <point x="244" y="614"/>
+      <point x="247" y="606" type="curve"/>
+      <point x="222" y="579"/>
+      <point x="132" y="473"/>
+      <point x="132" y="272" type="curve" smooth="yes"/>
+      <point x="132" y="71"/>
+      <point x="222" y="-35"/>
+      <point x="247" y="-64" type="curve"/>
+      <point x="245" y="-70"/>
+      <point x="238" y="-76"/>
+      <point x="231" y="-77" type="curve"/>
+      <point x="72" y="61"/>
+      <point x="69" y="237"/>
     </contour>
     <contour>
-      <point x="1164.3" y="269.8" type="curve" smooth="yes"/>
-      <point x="1164.3" y="127.5"/>
-      <point x="1093.1" y="-0.300003"/>
-      <point x="1002.1" y="-78.3" type="curve"/>
-      <point x="993.4" y="-77.7"/>
-      <point x="988.7" y="-72.3"/>
-      <point x="986.1" y="-64.5" type="curve"/>
-      <point x="1010.6" y="-37.0"/>
-      <point x="1100.8" y="68.6"/>
-      <point x="1100.8" y="269.8" type="curve" smooth="yes"/>
-      <point x="1100.8" y="471.0"/>
-      <point x="1011.3" y="576.5"/>
-      <point x="986.1" y="605.6" type="curve"/>
-      <point x="988.4" y="611.7"/>
-      <point x="994.5" y="617.1"/>
-      <point x="1002.1" y="618.6" type="curve"/>
-      <point x="1161.2" y="480.9"/>
-      <point x="1164.3" y="304.2"/>
+      <point x="1164" y="270" type="curve" smooth="yes"/>
+      <point x="1164" y="128"/>
+      <point x="1093" y="0"/>
+      <point x="1002" y="-78" type="curve"/>
+      <point x="993" y="-78"/>
+      <point x="989" y="-72"/>
+      <point x="986" y="-64" type="curve"/>
+      <point x="1011" y="-37"/>
+      <point x="1101" y="69"/>
+      <point x="1101" y="270" type="curve" smooth="yes"/>
+      <point x="1101" y="471"/>
+      <point x="1011" y="576"/>
+      <point x="986" y="606" type="curve"/>
+      <point x="988" y="612"/>
+      <point x="994" y="617"/>
+      <point x="1002" y="619" type="curve"/>
+      <point x="1161" y="481"/>
+      <point x="1164" y="304"/>
     </contour>
-    <component base="zero" xOffset="603.0"/>
-    <component base="two" xOffset="198.0"/>
   </outline>
   <lib>
     <dict>

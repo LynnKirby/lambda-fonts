@@ -1,29 +1,29 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1ED1" format="2">
   <advance width="504"/>
   <unicode hex="1ED1"/>
   <outline>
-    <contour>
-      <point x="402.6" y="713.4" type="line"/>
-      <point x="404.7" y="714.2"/>
-      <point x="408.9" y="715.0"/>
-      <point x="412.4" y="715.0" type="curve" smooth="yes"/>
-      <point x="416.9" y="715.0"/>
-      <point x="434.8" y="714.2"/>
-      <point x="450.9" y="696.6" type="curve"/>
-      <point x="453.0" y="687.8" type="line"/>
-      <point x="372.5" y="600.6" type="line" smooth="yes"/>
-      <point x="362.0" y="588.6"/>
-      <point x="356.4" y="585.4"/>
-      <point x="351.5" y="585.4" type="curve" smooth="yes"/>
-      <point x="346.6" y="585.4"/>
-      <point x="341.7" y="590.2"/>
-      <point x="341.7" y="595.8" type="curve" smooth="yes"/>
-      <point x="341.7" y="604.8"/>
-      <point x="344.0" y="607.9"/>
-      <point x="349.7" y="618.2" type="curve" smooth="yes"/>
-    </contour>
     <component base="ocircumflex"/>
+    <contour>
+      <point x="403" y="713" type="line"/>
+      <point x="405" y="714"/>
+      <point x="409" y="715"/>
+      <point x="412" y="715" type="curve" smooth="yes"/>
+      <point x="417" y="715"/>
+      <point x="435" y="714"/>
+      <point x="451" y="697" type="curve"/>
+      <point x="453" y="688" type="line"/>
+      <point x="372" y="601" type="line" smooth="yes"/>
+      <point x="362" y="589"/>
+      <point x="356" y="585"/>
+      <point x="352" y="585" type="curve" smooth="yes"/>
+      <point x="347" y="585"/>
+      <point x="342" y="590"/>
+      <point x="342" y="596" type="curve" smooth="yes"/>
+      <point x="342" y="605"/>
+      <point x="344" y="608"/>
+      <point x="350" y="618" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>

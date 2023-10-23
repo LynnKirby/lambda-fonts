@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2177" format="2">
   <advance width="1435"/>
   <unicode hex="2177"/>
@@ -6,7 +6,7 @@
   <anchor x="812" y="0" name="caret_2"/>
   <anchor x="1112" y="0" name="caret_3"/>
   <outline>
-    <component base="uni2171" xOffset="781.0"/>
+    <component base="uni2171" xOffset="781"/>
     <component base="uni2175"/>
   </outline>
 </glyph>

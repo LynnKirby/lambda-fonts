@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE0F9" format="2">
   <advance width="623"/>
   <outline>
-    <component base="quotereversed" xOffset="378.0" yOffset="2.0"/>
-    <component base="quotereversed" xOffset="188.0" yOffset="5.0"/>
+    <component base="quotereversed" xOffset="378" yOffset="2"/>
+    <component base="quotereversed" xOffset="188" yOffset="5"/>
     <component base="quotereversed"/>
   </outline>
   <lib>

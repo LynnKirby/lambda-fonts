@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.slash.fitted" format="2">
   <advance width="471"/>
   <outline>
-    <component base="zero.fitted" xOffset="4.0"/>
-    <component base="zslash.util" xOffset="18.0" yOffset="-1.0"/>
+    <component base="zero.fitted" xOffset="4"/>
+    <component base="zslash.util" xOffset="18" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

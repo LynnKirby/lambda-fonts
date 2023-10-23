@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni207B" format="2">
   <advance width="307"/>
   <unicode hex="207B"/>
   <outline>
     <contour>
-      <point x="389.8" y="527.0" type="line"/>
-      <point x="381.2" y="488.0" type="line"/>
-      <point x="143.2" y="488.0" type="line"/>
-      <point x="151.8" y="527.0" type="line"/>
+      <point x="390" y="527" type="line"/>
+      <point x="381" y="488" type="line"/>
+      <point x="143" y="488" type="line"/>
+      <point x="152" y="527" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omacron" format="2">
   <advance width="699"/>
   <unicode hex="014C"/>
-  <anchor x="361.0" y="-110.0" name="below"/>
-  <anchor x="354.0" y="-7.0" name="cedilla"/>
+  <anchor x="361" y="-110" name="below"/>
+  <anchor x="354" y="-7" name="cedilla"/>
   <outline>
     <component base="O"/>
-    <component base="uni02C9" xOffset="167.0" yOffset="192.0"/>
+    <component base="uni02C9" xOffset="167" yOffset="192"/>
   </outline>
 </glyph>

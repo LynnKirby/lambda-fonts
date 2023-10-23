@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EC0" format="2">
   <advance width="526"/>
   <unicode hex="1EC0"/>
   <outline>
-    <contour>
-      <point x="294.5" y="782.0" type="curve" smooth="yes"/>
-      <point x="294.5" y="777.2"/>
-      <point x="291.7" y="766.8"/>
-      <point x="281.2" y="766.8" type="curve" smooth="yes"/>
-      <point x="274.2" y="766.8"/>
-      <point x="264.4" y="770.8"/>
-      <point x="253.2" y="776.4" type="curve" smooth="yes"/>
-      <point x="154.5" y="826.8" type="line"/>
-      <point x="215.4" y="862.8" type="line"/>
-      <point x="286.8" y="795.6" type="line" smooth="yes"/>
-      <point x="291.7" y="790.8"/>
-      <point x="294.5" y="786.0"/>
-    </contour>
     <component base="Ecircumflex"/>
+    <contour>
+      <point x="294" y="782" type="curve" smooth="yes"/>
+      <point x="294" y="777"/>
+      <point x="292" y="767"/>
+      <point x="281" y="767" type="curve" smooth="yes"/>
+      <point x="274" y="767"/>
+      <point x="264" y="771"/>
+      <point x="253" y="776" type="curve" smooth="yes"/>
+      <point x="154" y="827" type="line"/>
+      <point x="215" y="863" type="line"/>
+      <point x="287" y="796" type="line" smooth="yes"/>
+      <point x="292" y="791"/>
+      <point x="294" y="786"/>
+    </contour>
   </outline>
 </glyph>

@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni05B0" format="2">
   <unicode hex="05B0"/>
-  <anchor x="149.0" y="0.0" name="_below"/>
+  <anchor x="149" y="0" name="_below"/>
   <outline>
-    <component base="uni05B4" xOffset="-17.0" yOffset="-70.0"/>
-    <component base="uni05B4" xOffset="-17.0" yOffset="37.0"/>
+    <component base="uni05B4" xOffset="-17" yOffset="-70"/>
+    <component base="uni05B4" xOffset="-17" yOffset="37"/>
   </outline>
 </glyph>

@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04F4" format="2">
   <advance width="650"/>
   <unicode hex="04F4"/>
   <outline>
     <component base="uni0427"/>
-    <component base="dieresis.cap" xOffset="570.0" yOffset="3.0"/>
+    <component base="dieresis.cap" xOffset="570" yOffset="3"/>
   </outline>
   <lib>
     <dict>

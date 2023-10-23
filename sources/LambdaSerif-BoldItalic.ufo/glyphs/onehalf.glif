@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onehalf" format="2">
   <advance width="700"/>
   <unicode hex="00BD"/>
   <outline>
+    <component base="uni00B9" xOffset="-1" yOffset="-49"/>
+    <component base="uni2082" xOffset="438" yOffset="86"/>
     <contour>
-      <point x="658.6" y="601.0" type="line"/>
-      <point x="714.5" y="588.0" type="line"/>
-      <point x="163.4" y="-67.0" type="line"/>
-      <point x="108.5" y="-54.0" type="line"/>
+      <point x="659" y="601" type="line"/>
+      <point x="714" y="588" type="line"/>
+      <point x="163" y="-67" type="line"/>
+      <point x="108" y="-54" type="line"/>
     </contour>
-    <component base="uni00B9" xOffset="-1.0" yOffset="-49.0"/>
-    <component base="uni2082" xOffset="438.0" yOffset="86.0"/>
   </outline>
 </glyph>

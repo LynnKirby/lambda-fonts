@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udieresis" format="2">
   <advance width="732"/>
   <unicode hex="00DC"/>
@@ -7,7 +7,7 @@ Dies sind alternative Umlaute, die im Deutschen vorzuziehen sind.
 </note>
   <outline>
     <component base="U"/>
-    <component base="dieresis.cap" xOffset="634.0" yOffset="1.0"/>
+    <component base="dieresis.cap" xOffset="634" yOffset="1"/>
   </outline>
   <lib>
     <dict>

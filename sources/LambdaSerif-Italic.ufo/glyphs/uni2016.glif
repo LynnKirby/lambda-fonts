@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2016" format="2">
   <advance width="278"/>
   <unicode hex="2016"/>
   <outline>
     <contour>
-      <point x="166.0" y="-189.0" type="line"/>
-      <point x="126.0" y="-189.0" type="line"/>
-      <point x="329.0" y="857.0" type="line"/>
-      <point x="369.0" y="857.0" type="line"/>
+      <point x="166" y="-189" type="line"/>
+      <point x="126" y="-189" type="line"/>
+      <point x="329" y="857" type="line"/>
+      <point x="369" y="857" type="line"/>
     </contour>
     <contour>
-      <point x="63.0" y="-189.0" type="line"/>
-      <point x="24.0" y="-189.0" type="line"/>
-      <point x="227.0" y="857.0" type="line"/>
-      <point x="267.0" y="857.0" type="line"/>
+      <point x="63" y="-189" type="line"/>
+      <point x="24" y="-189" type="line"/>
+      <point x="227" y="857" type="line"/>
+      <point x="267" y="857" type="line"/>
     </contour>
   </outline>
 </glyph>

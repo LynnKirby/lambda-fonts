@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE0FB" format="2">
   <advance width="640"/>
   <outline>
-    <component base="comma" xOffset="141.0" yOffset="603.0"/>
-    <component base="comma" xOffset="329.0" yOffset="603.0"/>
-    <component base="comma" xOffset="517.0" yOffset="603.0"/>
+    <component base="comma" xOffset="141" yOffset="603"/>
+    <component base="comma" xOffset="329" yOffset="603"/>
+    <component base="comma" xOffset="517" yOffset="603"/>
   </outline>
 </glyph>

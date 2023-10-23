@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="IJacute" format="2">
   <advance width="601"/>
   <outline>
     <component base="IJ"/>
-    <component base="acute.cap" xOffset="359.0" yOffset="125.0"/>
-    <component base="acute.cap" xOffset="695.0" yOffset="125.0"/>
+    <component base="acute.cap" xOffset="359" yOffset="125"/>
+    <component base="acute.cap" xOffset="695" yOffset="125"/>
   </outline>
 </glyph>

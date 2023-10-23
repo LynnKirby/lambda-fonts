@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni033B" format="2">
   <unicode hex="033B"/>
-  <anchor x="-269.0" y="-113.0" name="_below"/>
+  <anchor x="-269" y="-113" name="_below"/>
   <outline>
     <contour>
-      <point x="-327.2" y="-104.0" type="line"/>
-      <point x="-347.9" y="-206.0" type="line"/>
-      <point x="-239.9" y="-206.0" type="line"/>
-      <point x="-219.2" y="-104.0" type="line"/>
+      <point x="-327" y="-104" type="line"/>
+      <point x="-348" y="-206" type="line"/>
+      <point x="-240" y="-206" type="line"/>
+      <point x="-219" y="-104" type="line"/>
     </contour>
     <contour>
-      <point x="-357.6" y="-72.0" type="line"/>
-      <point x="-175.6" y="-72.0" type="line"/>
-      <point x="-209.4" y="-238.0" type="line"/>
-      <point x="-391.4" y="-238.0" type="line"/>
+      <point x="-358" y="-72" type="line"/>
+      <point x="-176" y="-72" type="line"/>
+      <point x="-209" y="-238" type="line"/>
+      <point x="-391" y="-238" type="line"/>
     </contour>
   </outline>
 </glyph>

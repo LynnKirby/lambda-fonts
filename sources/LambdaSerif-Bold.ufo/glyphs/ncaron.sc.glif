@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ncaron.sc" format="2">
   <advance width="652"/>
   <outline>
-    <component base="uni030C" xOffset="510.0" yOffset="-15.0"/>
+    <component base="uni030C" xOffset="510" yOffset="-15"/>
     <component base="n.sc"/>
   </outline>
 </glyph>

@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asteriskmath" format="2">
   <advance width="341"/>
   <unicode hex="2217"/>
   <outline>
-    <component base="asterisk" xOffset="-43.0" yOffset="-333.0"/>
+    <component base="asterisk" xOffset="-43" yOffset="-333"/>
   </outline>
 </glyph>

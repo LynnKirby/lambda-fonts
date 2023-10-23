@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three.taboldstyle" format="2">
   <advance width="514"/>
   <outline>
-    <component base="three" xOffset="-11.0" yOffset="-166.0"/>
+    <component base="three" xOffset="-11" yOffset="-166"/>
   </outline>
 </glyph>

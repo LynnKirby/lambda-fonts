@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2218" format="2">
   <advance width="341"/>
   <unicode hex="2218"/>
   <outline>
-    <component base="degree" xOffset="37.0" yOffset="-268.0"/>
+    <component base="degree" xOffset="37" yOffset="-268"/>
   </outline>
   <lib>
     <dict>

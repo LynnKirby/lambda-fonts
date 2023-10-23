@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="d.inferior" format="2">
   <advance width="315"/>
   <outline>
-    <component base="uni1D48" yOffset="-476.0"/>
+    <component base="uni1D48" yOffset="-476"/>
   </outline>
   <lib>
     <dict>

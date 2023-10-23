@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0354" format="2">
   <unicode hex="0354"/>
-  <anchor x="-194.4" y="-110.0" name="_below"/>
+  <anchor x="-194" y="-110" name="_below"/>
   <outline>
     <contour>
-      <point x="-257.2" y="-130.0" type="line"/>
-      <point x="-106.2" y="-190.3" type="line"/>
-      <point x="-113.8" y="-227.6" type="line"/>
-      <point x="-328.7" y="-143.8" type="line"/>
-      <point x="-323.2" y="-116.2" type="line"/>
-      <point x="-74.1" y="-32.4" type="line"/>
-      <point x="-81.7" y="-69.7" type="line"/>
+      <point x="-257" y="-130" type="line"/>
+      <point x="-106" y="-190" type="line"/>
+      <point x="-114" y="-228" type="line"/>
+      <point x="-329" y="-144" type="line"/>
+      <point x="-323" y="-116" type="line"/>
+      <point x="-74" y="-32" type="line"/>
+      <point x="-82" y="-70" type="line"/>
     </contour>
   </outline>
 </glyph>

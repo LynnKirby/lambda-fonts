@@ -1,17 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0338" format="2">
   <unicode hex="0338"/>
-  <anchor x="-379.0" y="297.0" name="_middle"/>
+  <anchor x="-379" y="297" name="_middle"/>
   <outline>
     <contour>
-      <point x="-602.0" y="-13.0" type="line"/>
-      <point x="-621.0" y="-13.0"/>
-      <point x="-635.0" y="4.0"/>
-      <point x="-638.0" y="19.0" type="curve"/>
-      <point x="-119.0" y="658.0" type="line"/>
-      <point x="-100.0" y="658.0"/>
-      <point x="-85.3" y="642.9"/>
-      <point x="-83.0" y="628.0" type="curve"/>
+      <point x="-602" y="-13" type="line"/>
+      <point x="-621" y="-13"/>
+      <point x="-635" y="4"/>
+      <point x="-638" y="19" type="curve"/>
+      <point x="-119" y="658" type="line"/>
+      <point x="-100" y="658"/>
+      <point x="-85" y="643"/>
+      <point x="-83" y="628" type="curve"/>
     </contour>
   </outline>
 </glyph>

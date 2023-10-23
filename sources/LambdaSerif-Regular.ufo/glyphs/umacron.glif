@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="umacron" format="2">
   <advance width="531"/>
   <unicode hex="016B"/>
-  <anchor x="259.0" y="771.0" name="above"/>
-  <anchor x="239.0" y="-110.0" name="below"/>
-  <anchor x="213.0" y="0.0" name="cedilla"/>
+  <anchor x="259" y="771" name="above"/>
+  <anchor x="239" y="-110" name="below"/>
+  <anchor x="213" y="0" name="cedilla"/>
   <outline>
     <component base="u"/>
-    <component base="uni0304" xOffset="468.0" yOffset="-17.0"/>
+    <component base="uni0304" xOffset="468" yOffset="-17"/>
   </outline>
   <lib>
     <dict>

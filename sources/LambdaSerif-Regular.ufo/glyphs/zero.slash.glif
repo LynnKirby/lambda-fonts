@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.slash" format="2">
   <advance width="465"/>
   <outline>
-    <component base="zero.slash.fitted" xOffset="-15.0"/>
+    <component base="zero.slash.fitted" xOffset="-15"/>
   </outline>
   <lib>
     <dict>

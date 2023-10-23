@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni032E" format="2">
   <unicode hex="032E"/>
-  <anchor x="-275.0" y="-110.0" name="_below"/>
+  <anchor x="-275" y="-110" name="_below"/>
   <outline>
-    <component base="uni0306" xOffset="-235.4" yOffset="-739.0"/>
+    <component base="uni0306" xOffset="-235" yOffset="-739"/>
   </outline>
 </glyph>

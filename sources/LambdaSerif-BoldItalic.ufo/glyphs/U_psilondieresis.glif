@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilondieresis" format="2">
   <advance width="606"/>
   <unicode hex="03AB"/>
   <outline>
     <component base="Y"/>
-    <component base="dieresis.cap" xOffset="713.0"/>
+    <component base="dieresis.cap" xOffset="713"/>
   </outline>
 </glyph>

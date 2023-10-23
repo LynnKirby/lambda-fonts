@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni22EE" format="2">
   <advance width="204"/>
   <unicode hex="22EE"/>
   <outline>
-    <component base="period" xOffset="-6.0" yOffset="576.0"/>
-    <component base="period" xOffset="-6.0" yOffset="311.0"/>
-    <component base="period" xOffset="-6.0" yOffset="47.0"/>
+    <component base="period" xOffset="-6" yOffset="576"/>
+    <component base="period" xOffset="-6" yOffset="311"/>
+    <component base="period" xOffset="-6" yOffset="47"/>
   </outline>
   <lib>
     <dict>

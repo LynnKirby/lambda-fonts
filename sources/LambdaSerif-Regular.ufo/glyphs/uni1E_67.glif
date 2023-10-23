@@ -1,23 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E67" format="2">
   <advance width="390"/>
   <unicode hex="1E67"/>
   <outline>
-    <contour>
-      <point x="150.4" y="648.1" type="curve" smooth="yes"/>
-      <point x="150.4" y="669.7"/>
-      <point x="175.6" y="691.3"/>
-      <point x="197.2" y="691.3" type="curve" smooth="yes"/>
-      <point x="221.5" y="691.3"/>
-      <point x="240.4" y="666.1"/>
-      <point x="240.4" y="644.5" type="curve" smooth="yes"/>
-      <point x="240.4" y="625.5"/>
-      <point x="218.8" y="601.3"/>
-      <point x="193.6" y="601.3" type="curve" smooth="yes"/>
-      <point x="172.0" y="601.3"/>
-      <point x="150.4" y="624.7"/>
-    </contour>
     <component base="scaron"/>
+    <contour>
+      <point x="150" y="648" type="curve" smooth="yes"/>
+      <point x="150" y="670"/>
+      <point x="176" y="691"/>
+      <point x="197" y="691" type="curve" smooth="yes"/>
+      <point x="222" y="691"/>
+      <point x="240" y="666"/>
+      <point x="240" y="644" type="curve" smooth="yes"/>
+      <point x="240" y="626"/>
+      <point x="219" y="601"/>
+      <point x="194" y="601" type="curve" smooth="yes"/>
+      <point x="172" y="601"/>
+      <point x="150" y="625"/>
+    </contour>
   </outline>
   <lib>
     <dict>

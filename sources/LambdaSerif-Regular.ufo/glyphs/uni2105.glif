@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2105" format="2">
   <advance width="755"/>
   <unicode hex="2105"/>
   <outline>
+    <component base="uni1D52" xOffset="420" yOffset="-360"/>
+    <component base="uni1D9C" xOffset="50" yOffset="65"/>
     <contour>
-      <point x="667.0" y="726.0" type="line"/>
-      <point x="153.0" y="-20.0" type="line"/>
-      <point x="100.0" y="-12.0" type="line"/>
-      <point x="613.0" y="733.0" type="line"/>
+      <point x="667" y="726" type="line"/>
+      <point x="153" y="-20" type="line"/>
+      <point x="100" y="-12" type="line"/>
+      <point x="613" y="733" type="line"/>
     </contour>
-    <component base="uni1D52" xOffset="420.0" yOffset="-360.0"/>
-    <component base="uni1D9C" xOffset="50.0" yOffset="65.0"/>
   </outline>
 </glyph>

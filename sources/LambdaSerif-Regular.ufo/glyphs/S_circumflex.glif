@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scircumflex" format="2">
   <advance width="485"/>
   <unicode hex="015C"/>
   <outline>
     <component base="uni0405"/>
-    <component base="circumflex.cap" xOffset="361.0" yOffset="173.0"/>
+    <component base="circumflex.cap" xOffset="361" yOffset="173"/>
   </outline>
   <lib>
     <dict>

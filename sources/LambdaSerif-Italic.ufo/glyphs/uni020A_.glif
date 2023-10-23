@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni020A" format="2">
   <advance width="280"/>
   <unicode hex="020A"/>
   <outline>
     <component base="I"/>
-    <component base="breveinvertedcmb.cap" xOffset="318.0" yOffset="146.0"/>
+    <component base="breveinvertedcmb.cap" xOffset="318" yOffset="146"/>
   </outline>
 </glyph>

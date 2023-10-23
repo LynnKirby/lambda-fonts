@@ -1,25 +1,25 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01DA" format="2">
   <advance width="598"/>
   <unicode hex="01DA"/>
   <outline>
-    <contour>
-      <point x="310.8" y="650.6" type="curve"/>
-      <point x="270.8" y="650.6" type="line"/>
-      <point x="247.6" y="692.0"/>
-      <point x="217.2" y="731.0"/>
-      <point x="189.2" y="766.7" type="curve"/>
-      <point x="208.4" y="782.9" type="line"/>
-      <point x="239.6" y="758.6"/>
-      <point x="260.4" y="741.5"/>
-      <point x="290.0" y="707.3" type="curve"/>
-      <point x="317.2" y="739.7"/>
-      <point x="341.2" y="758.6"/>
-      <point x="372.4" y="782.9" type="curve"/>
-      <point x="391.6" y="766.7" type="line"/>
-      <point x="362.8" y="730.7"/>
-      <point x="334.0" y="692.9"/>
-    </contour>
     <component base="udieresis"/>
+    <contour>
+      <point x="311" y="651" type="curve"/>
+      <point x="271" y="651" type="line"/>
+      <point x="248" y="692"/>
+      <point x="217" y="731"/>
+      <point x="189" y="767" type="curve"/>
+      <point x="208" y="783" type="line"/>
+      <point x="240" y="759"/>
+      <point x="260" y="742"/>
+      <point x="290" y="707" type="curve"/>
+      <point x="317" y="740"/>
+      <point x="341" y="759"/>
+      <point x="372" y="783" type="curve"/>
+      <point x="392" y="767" type="line"/>
+      <point x="363" y="731"/>
+      <point x="334" y="693"/>
+    </contour>
   </outline>
 </glyph>

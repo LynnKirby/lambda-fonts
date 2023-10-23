@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni029C" format="2">
   <advance width="684"/>
   <unicode hex="029C"/>
-  <anchor x="327.0" y="-110.0" name="below"/>
+  <anchor x="327" y="-110" name="below"/>
   <outline>
     <component base="h.sc"/>
   </outline>

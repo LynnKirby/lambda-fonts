@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02AC" format="2">
   <advance width="445"/>
   <unicode hex="02AC"/>
-  <anchor x="209.0" y="645.0" name="above"/>
-  <anchor x="196.0" y="-110.0" name="below"/>
-  <anchor x="167.0" y="-3.0" name="cedilla"/>
-  <anchor x="410.0" y="16.0" name="ogonek"/>
+  <anchor x="209" y="645" name="above"/>
+  <anchor x="196" y="-110" name="below"/>
+  <anchor x="167" y="-3" name="cedilla"/>
+  <anchor x="410" y="16" name="ogonek"/>
   <outline>
-    <component base="uni02B7" yOffset="-338.0"/>
+    <component base="uni02B7" yOffset="-338"/>
     <component base="uni02B7"/>
   </outline>
   <lib>

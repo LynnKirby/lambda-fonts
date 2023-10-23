@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflex.sc" format="2">
   <advance width="604"/>
   <outline>
-    <component base="uni0302" xOffset="484.0"/>
+    <component base="uni0302" xOffset="484"/>
     <component base="e.sc"/>
   </outline>
 </glyph>

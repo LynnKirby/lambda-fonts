@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0249" format="2">
   <advance width="312"/>
   <unicode hex="0249"/>
-  <anchor x="154.0" y="215.0" name="middle"/>
+  <anchor x="154" y="215" name="middle"/>
   <outline>
-    <component base="uni0307" xOffset="329.0"/>
+    <component base="uni0307" xOffset="329"/>
     <component base="uni0249.dotless"/>
   </outline>
 </glyph>

@@ -1,25 +1,25 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni203B" format="2">
   <advance width="608"/>
   <unicode hex="203B"/>
   <outline>
+    <component base="period" xOffset="183" yOffset="-86"/>
+    <component base="period" xOffset="383" yOffset="162"/>
+    <component base="period" xOffset="-19" yOffset="162"/>
+    <component base="period" xOffset="183" yOffset="409"/>
     <contour>
-      <point x="86.6" y="471.3" type="line"/>
-      <point x="120.1" y="496.6" type="line"/>
-      <point x="306.0" y="249.9" type="line"/>
-      <point x="488.8" y="492.5" type="line"/>
-      <point x="522.3" y="467.2" type="line"/>
-      <point x="332.3" y="215.0" type="line"/>
-      <point x="512.3" y="-23.9" type="line"/>
-      <point x="478.8" y="-49.2" type="line"/>
-      <point x="306.0" y="180.1" type="line"/>
-      <point x="130.1" y="-53.2" type="line"/>
-      <point x="96.6" y="-28.0" type="line"/>
-      <point x="279.7" y="215.0" type="line"/>
+      <point x="87" y="471" type="line"/>
+      <point x="120" y="497" type="line"/>
+      <point x="306" y="250" type="line"/>
+      <point x="489" y="492" type="line"/>
+      <point x="522" y="467" type="line"/>
+      <point x="332" y="215" type="line"/>
+      <point x="512" y="-24" type="line"/>
+      <point x="479" y="-49" type="line"/>
+      <point x="306" y="180" type="line"/>
+      <point x="130" y="-53" type="line"/>
+      <point x="97" y="-28" type="line"/>
+      <point x="280" y="215" type="line"/>
     </contour>
-    <component base="period" xOffset="183.0" yOffset="-86.0"/>
-    <component base="period" xOffset="383.0" yOffset="162.0"/>
-    <component base="period" xOffset="-19.0" yOffset="162.0"/>
-    <component base="period" xOffset="183.0" yOffset="409.0"/>
   </outline>
 </glyph>

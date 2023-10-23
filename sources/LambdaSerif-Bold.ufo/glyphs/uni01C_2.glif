@@ -1,29 +1,29 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C2" format="2">
   <advance width="353"/>
   <unicode hex="01C2"/>
   <outline>
     <contour>
-      <point x="311.0" y="328.0" type="line"/>
-      <point x="311.0" y="289.0" type="line"/>
-      <point x="196.0" y="289.0" type="line"/>
-      <point x="196.0" y="0.0" type="line"/>
-      <point x="136.0" y="0.0" type="line"/>
-      <point x="136.0" y="289.0" type="line"/>
-      <point x="25.0" y="289.0" type="line"/>
-      <point x="25.0" y="328.0" type="line"/>
-      <point x="136.0" y="328.0" type="line"/>
-      <point x="136.0" y="391.0" type="line"/>
-      <point x="25.0" y="391.0" type="line"/>
-      <point x="25.0" y="430.0" type="line"/>
-      <point x="136.0" y="430.0" type="line"/>
-      <point x="136.0" y="698.0" type="line"/>
-      <point x="196.0" y="698.0" type="line"/>
-      <point x="196.0" y="430.0" type="line"/>
-      <point x="311.0" y="430.0" type="line"/>
-      <point x="311.0" y="391.0" type="line"/>
-      <point x="196.0" y="391.0" type="line"/>
-      <point x="196.0" y="328.0" type="line"/>
+      <point x="311" y="328" type="line"/>
+      <point x="311" y="289" type="line"/>
+      <point x="196" y="289" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="136" y="289" type="line"/>
+      <point x="25" y="289" type="line"/>
+      <point x="25" y="328" type="line"/>
+      <point x="136" y="328" type="line"/>
+      <point x="136" y="391" type="line"/>
+      <point x="25" y="391" type="line"/>
+      <point x="25" y="430" type="line"/>
+      <point x="136" y="430" type="line"/>
+      <point x="136" y="698" type="line"/>
+      <point x="196" y="698" type="line"/>
+      <point x="196" y="430" type="line"/>
+      <point x="311" y="430" type="line"/>
+      <point x="311" y="391" type="line"/>
+      <point x="196" y="391" type="line"/>
+      <point x="196" y="328" type="line"/>
     </contour>
   </outline>
 </glyph>

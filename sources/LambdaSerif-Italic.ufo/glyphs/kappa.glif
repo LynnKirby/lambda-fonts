@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kappa" format="2">
   <advance width="506"/>
   <unicode hex="03BA"/>
-  <anchor x="373.0" y="644.0" name="above"/>
-  <anchor x="134.0" y="9.0" name="cedilla"/>
-  <anchor x="226.0" y="-108.0" name="below"/>
+  <anchor x="373" y="644" name="above"/>
+  <anchor x="226" y="-108" name="below"/>
+  <anchor x="134" y="9" name="cedilla"/>
   <outline>
     <component base="kgreenlandic"/>
   </outline>

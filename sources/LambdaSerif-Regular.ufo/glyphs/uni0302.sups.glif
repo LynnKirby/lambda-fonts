@@ -1,30 +1,30 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0302.sups" format="2">
-  <anchor x="-96.6" y="639.8" name="aboveMark"/>
-  <anchor x="-97.3" y="487.9" name="_above"/>
+  <anchor x="-97" y="488" name="_above"/>
+  <anchor x="-97" y="640" name="aboveMark"/>
   <outline>
     <contour>
-      <point x="-86.1" y="497.7" type="curve"/>
-      <point x="-65.8" y="464.8"/>
-      <point x="-35.0" y="427.7"/>
-      <point x="-9.8" y="399.7" type="curve"/>
-      <point x="-13.3" y="394.8"/>
-      <point x="-19.3" y="389.1"/>
-      <point x="-25.9" y="387.8" type="curve"/>
-      <point x="-52.5" y="404.6"/>
-      <point x="-77.0" y="424.2"/>
-      <point x="-98.0" y="445.9" type="curve"/>
-      <point x="-120.4" y="423.5"/>
-      <point x="-143.5" y="403.2"/>
-      <point x="-170.8" y="387.8" type="curve"/>
-      <point x="-177.1" y="389.2"/>
-      <point x="-182.0" y="393.4"/>
-      <point x="-186.2" y="399.7" type="curve"/>
-      <point x="-161.0" y="427.7"/>
-      <point x="-128.8" y="465.5"/>
-      <point x="-108.5" y="497.7" type="curve"/>
-      <point x="-101.0" y="499.3"/>
-      <point x="-93.6" y="499.8"/>
+      <point x="-86" y="498" type="curve"/>
+      <point x="-66" y="465"/>
+      <point x="-35" y="428"/>
+      <point x="-10" y="400" type="curve"/>
+      <point x="-13" y="395"/>
+      <point x="-19" y="389"/>
+      <point x="-26" y="388" type="curve"/>
+      <point x="-52" y="405"/>
+      <point x="-77" y="424"/>
+      <point x="-98" y="446" type="curve"/>
+      <point x="-120" y="424"/>
+      <point x="-144" y="403"/>
+      <point x="-171" y="388" type="curve"/>
+      <point x="-177" y="389"/>
+      <point x="-182" y="393"/>
+      <point x="-186" y="400" type="curve"/>
+      <point x="-161" y="428"/>
+      <point x="-129" y="466"/>
+      <point x="-108" y="498" type="curve"/>
+      <point x="-101" y="499"/>
+      <point x="-94" y="500"/>
     </contour>
   </outline>
 </glyph>

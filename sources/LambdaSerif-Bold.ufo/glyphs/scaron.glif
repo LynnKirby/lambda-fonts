@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scaron" format="2">
   <advance width="427"/>
   <unicode hex="0161"/>
-  <anchor x="183.0" y="-110.0" name="below"/>
-  <anchor x="189.0" y="-2.0" name="cedilla"/>
-  <anchor x="194.0" y="795.0" name="above"/>
+  <anchor x="194" y="795" name="above"/>
+  <anchor x="183" y="-110" name="below"/>
+  <anchor x="189" y="-2" name="cedilla"/>
   <outline>
     <component base="s"/>
-    <component base="uni030C" xOffset="398.0" yOffset="-15.0"/>
+    <component base="uni030C" xOffset="398" yOffset="-15"/>
   </outline>
 </glyph>
