@@ -4,6 +4,7 @@
 
 # Language overrides
 *.feax linguist-language=afdko
+.vscode/*.json linguist-language=jsonc
 
 # In-source generated files
 sources/*.ufo/features.fea linguist-generated
