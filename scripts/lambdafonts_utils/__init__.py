@@ -23,19 +23,16 @@ def run_pysilfont_script(
     params = params or {}
     args = args or []
 
-    run_args = [
-        sys.executable,
-        "-m",
-        f"silfont.scripts.{script}",
-    ]
+    run_args = [sys.executable, "-m", f"silfont.scripts.{script}"]
 
     if log_dir is not None:
-        args += ["-l", str(log_dir)]
+        run_args += ["-l", str(log_dir)]
+
+    for k, v in params.items():
+        run_args += ["-p", f"{k}={v}"]
 
     run_args += args
-
     result = subprocess.run(args=run_args)
-
     return result.returncode
 
 
