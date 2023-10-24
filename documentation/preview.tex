@@ -1,0 +1,40 @@
+% SPDX-FileCopyrightText: none
+%
+% SPDX-License-Identifier: 0BSD
+
+\documentclass{minimal}
+\usepackage{fontspec}
+\usepackage{graphicx}
+
+\usepackage[
+	papersize={130mm,30mm},
+	layouthoffset = 0mm,
+	layoutvoffset = 0mm,
+	left = 0mm,
+	right = 0mm,
+	top = 0mm,
+	bottom = 0mm,
+]{geometry}
+
+\setmainfont[
+  Extension = .otf,
+  UprightFont = *-Regular,
+]{LambdaSerif}
+
+\def\sample#1#2#3{{\fontspec{#1} #3} & \quad\scalebox{.6}[1]{\texttt{#2}}}
+\def\panagram#1#2{\sample{#1}{#2}{The Quick Brown Fox Jumps Over The Lazy Dog}}
+
+\begin{document}
+\topskip0pt
+\vspace*{\fill}
+\begin{center}
+  \begin{tabular}{l r}
+   \panagram{LambdaSerif-Regular.otf}     {Lambda Serif} \\
+   \panagram{LambdaSerif-Italic.otf}      {Lambda Serif Italic} \\
+   \panagram{LambdaSerif-Bold.otf}        {Lambda Serif Bold} \\
+   \panagram{LambdaSerif-BoldItalic.otf}  {Lambda Serif Bold Italic} \\
+  \end{tabular}
+\end{center}
+\vspace*{\fill}
+
+\end{document}
